@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Flutter Restaurant</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">    
+    <link rel="shortcut icon" href="./assets/favicon.ico">  
+    <link href='https://befonts.com/product-sans-font.html' rel='stylesheet' type='text/css'>
+    <!-- FontAwesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
+    <!-- Plugins CSS -->    
+    <link rel="stylesheet" href="assets/plugins/prism/prism.css">
+    <link rel="stylesheet" href="assets/plugins/elegant_font/css/style.css">  
+   
+    <!-- Theme CSS -->
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+    
+</head> 
+
+<body class="body-green">
+    <div class="page-wrapper">
+        <!-- ******Header****** -->
+        <header id="header" class="header">
+            <div class="container">
+                <div class="branding">
+                    <h1 class="logo">
+                        <a href="index.html">
+                            <span aria-hidden="true" class="icon_documents_alt icon"></span>
+                            <span class="text-highlight">Flutter Restaurant</span><span class="text-bold"> Docs</span>
+                        </a>
+                    </h1>
+                    
+                </div><!--//branding-->
+                
+                
+            </div><!--//container-->
+        </header><!--//header-->
+        <div class="doc-wrapper">
+            <div class="container">
+                <div id="doc-header" class="doc-header text-center">
+                    <h1 class="doc-title"><i class="icon_documents_alt icon"></i>Documentation</h1>
+                </div><!--//doc-header-->
+                <div class="doc-body row">
+                    <div class="doc-content col-md-9 col-12 order-1">
+                        <div class="content-inner">
+                            
+                            <section id="installation-section" class="doc-section">
+                                <h2 class="section-title">Getting Started</h2>
+                                <div id="server-requirements"  class="section-block">
+                                    <h3 class="block-title">Server Requirements</h3>
+                                    <p>
+                                        These are the minimum server requirements, the installer will check if your server meets these or alternatively you can contact your hosting provider in order to make sure your server meets them. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/52/3/server-requirements">Read More</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="backend-installation"  class="section-block">
+                                    <h3 class="block-title">Backend Installation</h3>
+                                    <p>
+                                        You could take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/52/2/backend-installation">here</a> for how to setup backend on your server.
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+
+                                <div id="database-setup"  class="section-block">
+                                    <h3 class="block-title">Database Setup</h3>
+                                    <p>
+                                        You could take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/52/38/database-setup">here</a> for how to setup database on your server.
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+
+                                <div id="flutter-working-environment"  class="section-block">
+                                    <h3 class="block-title">Flutter Wroking Environment</h3>
+                                    <p>
+                                        You need to setup your working environment for Android Development. And if you want for iOS, you need to setup for iOS Development. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/52/44/flutter-working-environment">Read More</a>
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+
+                                <div id="flutter-project-setup"  class="section-block">
+                                    <h3 class="block-title">Flutter Project Setup</h3>
+                                    <p>
+                                        You can take a look <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/52/45/flutter-project-setup">here</a> for Flutter Project Setup.
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+                                
+                                <div id="overview-app-architecture"  class="section-block">
+                                    <h3 class="block-title">Overview App Architecture</h3>
+                                    <p>
+                                        You can check <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/52/43/overview-app-architecture">here</a> for our app overview architecture.
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="version-alert"  class="section-block">
+                                    <h3 class="block-title">Disable For Version Update Alert</h3>
+                                    <p>
+                                        You can check <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/52/39/disable-for-version-update-alert">here</a>.
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+
+                                <div id="https-domain"  class="section-block">
+                                    <h3 class="block-title">https domain configuration</h3>
+                                    <p>
+                                        You can check <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/52/68/https-domain-configuration">here</a>.
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                            </section><!--//doc-section-->
+                           
+                            <section id="installation-section" class="doc-section">
+                                <h2 class="section-title">Backend Configuration</h2>
+                                
+                                <div id="updating-your-own-api-key"  class="section-block">
+                                    <h3 class="block-title">Update your own API KEY</h3>
+                                    <p>
+                                        It is security purpose in between your app and backend. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/53/69/updating-your-own-api-key-for-flutter-apps">Read More</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="backend-email-configuration"  class="section-block">
+                                    <h3 class="block-title">Backend Email Configuration</h3>
+                                    <p>
+                                        You need to create and config the email which so please take a look more derails at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/53/19/backend-email-configuration">here.</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="update-firebase-could-messaging-fcm-key"  class="section-block">
+                                    <h3 class="block-title">Update Firebase Could Messaging (FCM) Key</h3>
+                                    <p>
+                                        You need to update your own FCM key for push notification so please take a look more details at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/53/33/update-firebase-could-messaging-fcm-key">here.</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="paypal-configuration"  class="section-block">
+                                    <h3 class="block-title">Paypal Configuration</h3>
+                                    <p>
+                                        Our app is using Paypal payment gateway so you need to setup paypal keys so you can take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/53/36/paypal-configuration">here</a> for more details instructions.
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+
+                                <div id="mysql-command"  class="section-block">
+                                    <h3 class="block-title">MySQL Command</h3>
+                                    <p>
+                                        Sometime, when you run the query inside the DB, there is issue for SQL MODE so please take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/53/41/mysql-command">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+
+                                <div id="braintree-configuration"  class="section-block">
+                                    <h3 class="block-title">Braintree Configuration</h3>
+                                    <p>
+                                        Our app is using Paypal payement gateway which is using Braintree so please take a look more derail at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/53/42/braintree-configuration">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="braintree-configuration"  class="section-block">
+                                    <h3 class="block-title">Stripe Configuration</h3>
+                                    <p>
+                                        Our app is using Stripe payement gateway so please take a look more derail at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/53/37/stripe-configuration">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                                 <div id="email-content-update"  class="section-block">
+                                    <h3 class="block-title">Email Content Update</h3>
+                                    <p>
+                                        Please take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/53/70/email-content-update">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                            </section>
+
+                            <section id="installation-section" class="doc-section">
+                                <h2 class="section-title">Android Configuration</h2>
+                                <div id="firebase-setup-for-android"  class="section-block">
+                                    <h3 class="block-title">Firebase Setup for Android</h3>
+                                    <p>
+                                        Before you can add Firebase to your Android app, you need to create a Firebase project to connect to your Android app. Visit Understand Firebase Projects to learn more about Firebase projects. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/46/firebase-setup-for-android">Read More</a>
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+                                
+                                <div id="changing-package-name"  class="section-block">
+                                    <h3 class="block-title">Changing Package Name</h3>
+                                    <p>
+                                       There is 6 steps to change the package of our flutter app. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/49/changing-package-name">Read More</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="google-signin"  class="section-block">
+                                    <h3 class="block-title">Authenticate using Google Sign-In on Android</h3>
+                                    <p>
+                                       There is 6 steps to change the package of our flutter app. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/22/authenticate-using-google-sign-in-on-android">Read More</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="changing-app-icon"  class="section-block">
+                                    <h3 class="block-title">Changing App Icon</h3>
+                                    <p>
+                                        You need to generate android icons with difference dpi. In order to generate app icon please follow the following steps. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/50/changing-app-icon">Read More</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="changing-backend-url-and-api-key-config"  class="section-block">
+                                    <h3 class="block-title">Changing Backend Url and API Key Config</h3>
+                                    <p>
+                                        After you setup your backend, you need to change the backend url at our flutter app config. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/52/changing-backend-url-and-api-key-config">Read More</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="changing-default-language"  class="section-block">
+                                    <h3 class="block-title">Changing default language</h3>
+                                    <p>
+                                        You can able to change app default language under config. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/54/changing-default-language">Read More</a>
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+
+                                <div id="adding-new-language"  class="section-block">
+                                    <h3 class="block-title">Adding new language</h3>
+                                    <p>
+                                        You can add more language to our app very easily. So, please check the following steps to add new language. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/56/adding-new-language">Read More</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+
+                                <div id="changing-price-format"  class="section-block">
+                                    <h3 class="block-title">Changing price format</h3>
+                                    <p>
+                                        Please take a look <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/58/changing-price-format">here</a> for how to change the price format.
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="release-to-live"  class="section-block">
+                                    <h3 class="block-title">Release to Live</h3>
+                                    <p>
+                                        If you want to release the app, please take a look more details at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/60/release-to-live">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="fb-signin"  class="section-block">
+                                    <h3 class="block-title">Authenticate Using Facebook Sign-In On Android</h3>
+                                    <p>
+                                        If you want to release the app, please take a look more details at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/24/authenticate-using-facebook-sign-in-on-android">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="phone-signin"  class="section-block">
+                                    <h3 class="block-title">Authenticate Using Phone Sign-In On Android</h3>
+                                    <p>
+                                        If you want to release the app, please take a look more details at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/66/authenticate-using-phone-sign-in-on-android">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                                 <div id="admob-banner"  class="section-block">
+                                    <h3 class="block-title">Configuring AdMob banner For Flutter Apps</h3>
+                                    <p>
+                                        If you want to release the app, please take a look more details at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/54/75/configuring-admob-banner-for-flutter-apps">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                            </section>
+
+                            <section id="installation-section" class="doc-section">
+                                <h2 class="section-title">iOS CONFIGURATION</h2>
+                                <div id="firebase-setup-for-ios"  class="section-block">
+                                    <h3 class="block-title">Firebase Setup for IOS</h3>
+                                    <p>
+                                        Before you can add Firebase to your iOS app, you need to create a Firebase project to connect to your iOS app. Visit Understand Firebase Projects to learn more about Firebase projects. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/47/firebase-setup-for-ios">Read More</a>
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+                                
+                                <div id="changing-package-name-ios"  class="section-block">
+                                    <h3 class="block-title">Changing Package Name</h3>
+                                    <p>
+                                        There is 5 steps to change the package of our flutter app. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/48/changing-package-name">Read More</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="changing-app-icon-ios"  class="section-block">
+                                    <h3 class="block-title">Changing App Icon</h3>
+                                    <p>
+                                        You need to generate android icons with difference dpi. In order to generate app icon please follow the following steps. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/51/changing-app-icon">Read More</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="changing-backend-url-and-api-key-config-ios"  class="section-block">
+                                    <h3 class="block-title">Changing Backend Url and API Key Config</h3>
+                                    <p>
+                                        After you setup your backend, you need to change the backend url at our flutter app config. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/53/changing-backend-url-and-api-key-config">Read More</a>
+                                    </p>
+                                    
+                                </div><!--//section-block-->
+
+                                <div id="changing-default-language-ios"  class="section-block">
+                                    <h3 class="block-title">Changing Default language</h3>
+                                    <p>
+                                        You can able to change app default language under config. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/63/changing-default-language">Read More</a>
+                                    </p>
+                                   
+                                </div><!--//section-block-->
+
+                                <div id="adding-new-language-ios"  class="section-block">
+                                    <h3 class="block-title">Adding new language</h3>
+                                    <p>
+                                        You can add more language to our app very easily. So, please check the following steps to add new language. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/57/adding-new-language">Read More</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+
+                                <div id="changing-price-format-ios"  class="section-block">
+                                    <h3 class="block-title">Changing price format</h3>
+                                    <p>
+                                        Please take a look <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/59/changing-price-format">here</a> for how to change the price format.
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="release-to-live-ios"  class="section-block">
+                                    <h3 class="block-title">Release to live</h3>
+                                    <p>
+                                        If you want to release the app, please take a look more details at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/61/release-to-live">here.</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="update-iosappstoreid"  class="section-block">
+                                    <h3 class="block-title">Update iOSAppStoreId</h3>
+                                    <p>
+                                        For iOSAppStoreId, we are using to open your app store when we got new update or give rating for app. <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/62/update-iosappstoreid">Read More</a>
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="google-signin-ios"  class="section-block">
+                                    <h3 class="block-title">Authenticate Using Google Sign-In on iOS</h3>
+                                    <p>
+                                        Please take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/65/authenticate-using-google-sign-in-on-ios">here</a>.
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="phone-signin-ios"  class="section-block">
+                                    <h3 class="block-title">Authenticate Using Phone Sign-In on iOS</h3>
+                                    <p>
+                                        Please take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/67/authenticate-using-phone-sign-in-on-ios">here</a>.
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="push-noti-ios"  class="section-block">
+                                    <h3 class="block-title">Configuring iOS Push notification For Flutter Apps</h3>
+                                    <p>
+                                        Please take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/76/configuring-ios-push-notification-for-flutter-apps">here</a>.
+                                    </p>
+                                </div><!--//section-block-->
+
+                                <div id="apple-login-ios"  class="section-block">
+                                    <h3 class="block-title">Configuring Apple Login For iOS</h3>
+                                    <p>
+                                        Please take a look at <a target="_blank" href="http://www.panacea-soft.com/support/help-center/articles/51/55/77/configuring-apple-login-for-ios">here</a>.
+                                    </p>
+                                </div><!--//section-block-->
+
+                            </section>
+                            
+                        </div><!--//content-inner-->
+                    </div><!--//doc-content-->
+
+                    <div class="doc-sidebar col-md-3 col-12 order-0 d-none d-md-flex">
+                        <div id="doc-nav" class="doc-nav">
+                            
+                                <nav id="doc-menu" class="nav doc-menu flex-column sticky">
+                                    <a class="nav-link scrollto" href="#gettting-started-section">GETTING STARTED</a>
+                                    <nav class="doc-sub-menu nav flex-column">
+                                        <a class="nav-link scrollto" href="#server-requirements">Server Requirements</a>
+                                        <a class="nav-link scrollto" href="#backend-installation">Backend Installation</a>
+                                        <a class="nav-link scrollto" href="#database-setup">Database Setup</a>
+                                        <a class="nav-link scrollto" href="#flutter-working-environment">Flutter Working Environment</a>
+                                        <a class="nav-link scrollto" href="#flutter-project-setup">Flutter Project Setup</a>
+                                        <a class="nav-link scrollto" href="#overview-app-architecture">Overview App Architecture</a>
+                                        <a class="nav-link scrollto" href="#version-alert">Disable For Version Update Alert</a>
+                                        <a class="nav-link scrollto" href="#https-domain">Https Domain Configuration</a>
+                                    </nav><!--//nav-->
+                                    <a class="nav-link scrollto" href="#backend-configuration">BACKEND CONFIGURATION</a>
+                                    <nav class="doc-sub-menu nav flex-column">
+                                        <a class="nav-link scrollto" href="#stripe-configuration">Stripe Configuration</a>
+                                        <a class="nav-link scrollto" href="#updating-your-own-api-key">Update your own API KEY</a>
+                                        <a class="nav-link scrollto" href="#backend-email-configuration">Backend Email Configuration</a>
+                                        <a class="nav-link scrollto" href="#update-firebase-could-messaging-fcm-key">Update Firebase Could Messaging (FCM) Key</a>
+                                        <a class="nav-link scrollto" href="#paypal-configuration">Paypal Configuration</a>
+                                        <a class="nav-link scrollto" href="#mysql-command">MySQL Command</a>
+                                        <a class="nav-link scrollto" href="#braintree-configuration">Braintree Configuration</a>
+                                        <a class="nav-link scrollto" href="#email-content-update">Email Content Update</a>
+                                    </nav><!--//nav-->
+                                    <a class="nav-link scrollto" href="#android-configuration">ANDROID CONFIGURATION</a>
+                                    <nav class="doc-sub-menu nav flex-column">
+                                        <a class="nav-link scrollto" href="#firebase-setup-for-android">Firebase Setup for Android</a>
+                                        <a class="nav-link scrollto" href="#changing-package-name">Changing Package Name</a>
+                                        <a class="nav-link scrollto" href="#google-signin">Authenticate Using Google Sign-In on Android</a>
+                                        <a class="nav-link scrollto" href="#changing-app-icon">Changing App Icon</a>
+                                        <a class="nav-link scrollto" href="#changing-backend-url-and-api-key-config">Changing Backend Url and API Key Config</a>
+                                        <a class="nav-link scrollto" href="#changing-default-language">Changing Default language</a>
+                                        <a class="nav-link scrollto" href="#adding-new-language">Adding New language</a>
+                                        <a class="nav-link scrollto" href="#changing-price-format">Changing Price Format</a>
+                                        <a class="nav-link scrollto" href="#release-to-live">Release To Live</a>
+                                        <a class="nav-link scrollto" href="#fb-signin">Authenticate Using Facebook Sign-In on Android</a>
+                                        <a class="nav-link scrollto" href="#phone-signin">Authenticate Using Phone Sign-In on Android</a>
+                                        <a class="nav-link scrollto" href="#admob-banners">Configuring AdMob Banner For Flutter Apps</a>
+
+
+
+                                    </nav><!--//nav-->
+                                    <a class="nav-link scrollto" href="#android-configuration">iOS CONFIGURATION</a>
+                                    <nav class="doc-sub-menu nav flex-column">
+                                        <a class="nav-link scrollto" href="#firebase-setup-for-ios">Firebase Setup for iOS</a>
+                                        <a class="nav-link scrollto" href="#changing-package-name-ios">Changing Package Name</a>
+                                        <a class="nav-link scrollto" href="#changing-app-icon-ios">Changing App Icon</a>
+                                        <a class="nav-link scrollto" href="#changing-backend-url-and-api-key-config-ios">Changing Backend Url and API Key Config</a>
+                                        <a class="nav-link scrollto" href="#changing-default-language-ios">Changing Default Language</a>
+                                        <a class="nav-link scrollto" href="#adding-new-language-ios">Adding New language</a>
+                                        <a class="nav-link scrollto" href="#changing-price-format-ios">Changing Price Format</a>
+                                        <a class="nav-link scrollto" href="#release-to-live-ios">Release To Live</a>
+                                        <a class="nav-link scrollto" href="#update-iosappstoreid">Update iOSAppStoreId</a>
+                                        <a class="nav-link scrollto" href="#google-signin-ios">Authenticate Using Google Sign-In on iOS</a>
+                                        <a class="nav-link scrollto" href="#phone-signin-ios">Authenticate Using Phone Sign-In on iOS</a>
+                                        <a class="nav-link scrollto" href="#push-noti-ios">Configuring iOS Push notification For Flutter Apps</a>
+                                        <a class="nav-link scrollto" href="#apple-login-ios">Configuring Apple Login For iOS</a>
+                                    </nav><!--//nav-->
+                                </nav><!--//doc-menu-->
+                            
+                        </div>
+                    </div><!--//doc-sidebar-->
+                   
+                </div><!--//doc-body-->              
+            </div><!--//container-->
+        </div><!--//doc-wrapper-->
+        
+    
+        
+    </div><!--//page-wrapper-->
+    
+    <footer id="footer" class="footer text-center">
+        <div class="container">
+            <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
+            <small class="copyright">By <i class="fas fa-heart"></i> by <a href="https://panacea-soft.com/" target="_blank">Panacea-Soft 2020</a> </small>
+            
+        </div><!--//container-->
+    </footer><!--//footer-->
+    
+     
+    <!-- Main Javascript -->          
+    <script type="text/javascript" src="assets/plugins/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/prism/prism.js"></script>    
+    <script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>      
+    <script type="text/javascript" src="assets/plugins/stickyfill/dist/stickyfill.min.js"></script>                                                             
+    <script type="text/javascript" src="assets/js/main.js"></script>
+    
+</body>
+</html> 
+

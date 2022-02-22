@@ -1,0 +1,1040 @@
+key,valor
+site_name,Flutter Restaurant
+setting_label,Configuração
+lbl_search_shop,pesquisa Loja
+status_label,transações Estado
+trans_detail,Detalhes da transação
+shops_unpublish_list_label,Lista de Loja inédito
+btn_create_new_shop,Criar Nova Loja
+btn_shop_list,Lista de Loja Unpublish
+btn_push_notification,push Notification
+btn_system_user,Usuário do sistema
+btn_export_database,Banco de Dados de exportação
+btn_about_app,Sobre App
+address_label,Endereço
+lbl_about_shop,Sobre Loja
+lbl_categories,categorias
+user_email,O email
+user_password,Senha
+sign_in,Assinar em
+total_users_count_label,Total de usuários
+total_cat_count_label,Total de Categorias
+total_wallpaper_count_label,Total de papéis de parede
+total_contact_label,Total de Mensagens de Contato
+btn_search,Procurar
+back_shop_list,Lista Shop Voltar
+err_image_missing,Nenhum arquivo é carregado
+about_info,Sobre Informação
+allowed_modules,Módulo permitido
+shop_name,Nome da loja
+add_more_color,Adicionar mais cor
+color_code,Cor produto
+product_title,Título
+product_desc,Descrição
+add_more_spec,Adicionar mais Specification
+prd_specification,Especificação do produto
+product_name_count,Conde Nome do produto
+select_multiple_images,Por favor seleccione várias imagens do produto.
+noti_add,Adicionar Notis
+prd_unit,Unidade produto
+prd_measurement,Medição do produto
+noti_search,pesquisa Noti
+error_login,"Suas credenciais de login estão incorretas. Por favor, tente novamente."
+profile_img,Imagem de perfil
+cat_add,Adicionar categorias
+wrn_no_data,Não há dados ainda
+cat_name,Nome da Categoria
+cat_img,categoria Foto
+cat_info,categoria Informação
+cat_ordering,Encomenda
+cat_edit,Editar Categoria
+success_cat_add,Categoria foi adicionada com sucesso
+success_cat_edit,Categoria foi atualizada com sucesso
+success_upload,A imagem foi atualizado com sucesso
+delete_cat_label,Categoria de exclusão?
+cat_yes_all_message,"Ao apagar esta categoria, ele irá apagar todas as categorias sub relacionados e Comida também. Então, você ainda deseja apagá-lo?"
+success_cat_delete,Categoria foi excluído com sucesso
+cat_search,pesquisa Categoria:
+cat_icon,Ícone da categoria
+btn_replace_icon,substituir Ícone
+upload_icon,Carregar Ícone
+about_upload_icon,Carregar Ícone
+fav_upload_icon,Fav Ícone
+sidebar_upload_icon,Logo Sidebar
+btn_upload,Envio
+err_cat_name,"Por favor, forneça nome da categoria"
+err_cat_len,O comprimento do nome da categoria deve ser maior que 4
+err_cat_exist,Nome da categoria já está existia no sistema
+subcat_info,Sub Categoria Informação
+subcat_name,Sub Categoria Nome
+subcat_ordering,Sub Categoria Order
+subcat_img,Categoria Sub Foto
+subcat_icon,Sub Categoria Ícone
+subcat_search,Pesquisar Sub Categoria
+subcat_add,Adicionar Sub Categoria
+subcat_edit,Editar Sub Categoria
+success_subcat_edit,Sub categoria foi atualizada com sucesso
+success_subcat_add,Sub Categoria foi adicionada com sucesso
+success_subcat_delete,Sub Categoria foi excluído com sucesso
+err_subcat_name,"Por favor, forneça sub nome da categoria"
+err_subcat_len,O comprimento do Sub Categoria Nome deve ser maior que 4
+err_subcat_exist,Sub Categoria Nome já está existia no sistema
+delete_subcat_label,Excluir Sub Categoria?
+subcat_delete_confirm_message,Tem certeza de que deseja excluir esta subcategoria?
+subcat_yes_all_message,"Ao eliminar este sub-categoria, ele irá apagar todos os Comida relacionados também. Então, você ainda deseja apagá-lo?"
+subcat_no_only_message,<B> Apenas Sub Categoria </ b> - Só Sub Categoria excluirá a partir do sistema.
+subcat_yes_all_label,Sim Todos
+subcat_no_only_label,Apenas Sub Categoria
+select_subcat,Select Sub Categoria
+select_cat,Selecione a Categoria
+subcat_panel_title,Sub lista de categorias
+Prd_search_cat,Escolha um nome de categoria
+btn_reset,Redefinir
+btn_yes,sim
+upload_photo,upload de fotos
+upload_button,Envio
+replace_photo_button,Substituir Foto da capa
+photo_desc_label,foto Descrição
+del_cover_photo,Excluir Foto da capa
+del_cover_photo_confirm,Tem certeza de que deseja apagar a foto?
+del_icon_label,Ícone Excluir
+del_icon_confirm,Tem certeza de que deseja excluir o ícone?
+status,Status (É Publicar?)
+dis_name,Nome de desconto
+dis_add,add Descontos
+dis_percent,Percentagem de desconto (%)
+choose_prd_label,Escolha os Comida
+dis_info,Informações desconto
+dis_photo,Discount Foto
+prd_name,Nome do Produto
+prd_code,Código
+product_price,Preço ($)
+dis_add,add Descontos
+success_dis_add,Descontos foi adicionada com sucesso
+success_dis_edit,Descontos foi atualizado com sucesso
+delete_dis_label,Descontos apagar?
+dis_delete_confirm_message,Tem certeza que deseja excluir este Descontos?
+dis_edit,Editar Descontos
+err_dis_name,Forneça o nome de desconto
+err_dis_percent,"Por favor, forneça Discount Percent"
+err_dis_len,O comprimento de Nome de desconto deve ser maior do que 4
+err_dis_exist,Discount nome já está existia no sistema
+success_dis_delete,Descontos foi excluído com sucesso
+discount_photo,Discount Foto
+dis_search,pesquisa Discount
+feed_add,Adicionar novos feeds
+feed_info,Novos feeds Informations
+feed_name,Nome de alimentação
+feed_desc,alimentação Descrição
+feed_edit,Editar Feeds
+success_feed_add,Novas Feeds foi adicionada com sucesso
+success_feed_edit,Novas Feeds foi atualizado com sucesso
+err_dup_name,Nome já está existia no sistema
+err_feed_exist,Alimentação nome já está existia no sistema
+delete_feed_label,Excluir New Feeds?
+feed_delete_confirm_message,Tem certeza que deseja deletar isto Novo Feeds?
+success_feed_delete,Novas Feeds foi excluído com sucesso
+f_item_cat_required,Selecione a categoria Nome
+err_feed_len,O comprimento de alimentação Nome deve ser maior do que 4
+err_feed_name,Forneça o nome de alimentação
+feed_search,feed de pesquisa
+feed_gallery,Galeria de alimentação
+list_product_nav,Comida
+prd_add,Adicionar produto
+att_add,Adicionar Novo Personalizada
+add_att_detail,Adicionar novo detalhe Personalizada
+list_attribute_header,Personalizada Lista Header
+wrn_no_data,Não há dados ainda
+product_name,Nome do Produto
+att_name,Nome do Personalizada
+Prd_search_subcat,Select Sub Categoria Nome
+Prd_search_dis,Selecionar tipo de desconto
+product_gallery,Galeria de Comida
+prd_info,informação do produto
+rec_prd_info,Comida Recentemente Adicionado
+att_info,Informações Personalizada
+prd_desc,Descrição do Produto
+prd_high_info,Informações Destaque do produto
+prd_edit,Editar produto
+prd_code,Código do produto
+success_prd_add,Produto foi adicionado com sucesso
+success_prd_edit,O produto tem sido atualizado com sucesso
+success_upload,A imagem foi atualizado com sucesso
+delete_prd_label,Excluir do produto?
+prd_yes_all_message,"Ao eliminar este produto, ele irá apagar todas as categorias sub relacionados e categoria também. Então, você ainda deseja apagá-lo?"
+success_prd_delete,O produto tem sido excluído com sucesso
+prd_search,pesquisa de produto
+btn_save_prd_att,Personalizada Save & Ir para o Produto
+btn_att_list,Lista de Personalizadas
+btn_save_gallery,Save & Go To Gallery
+unit_price,Preço unitário
+search_tag,Pesquisa Tag / Keyword
+f_item_subcat_required,Selecione Sub Categoria Nome
+f_item_discount_required,Selecione a categoria Nome
+err_Prd_name,"Por favor, forneça o nome do produto"
+err_Prd_len,O comprimento do nome do produto deve ser maior que 4
+err_Prd_exist,Nome do produto já está existia no sistema
+is_discount,É Discount?
+is_featured,É destaque?
+is_available,Está disponível?
+order_by,Ordenar por
+select_order,Select Order
+from_price,De Preço
+to_price,para Preço
+shipping_cost,Frete
+minimum_order,Ordem mínima
+original_price,Preço original
+err_access,"Desculpe, você não tem acesso a tomar esta ação"
+err_model,erro de banco de dados ocorreu
+err_sys,erro de sistema ocorreu
+btn_edit,Editar
+btn_update,Atualizar
+btn_delete,Excluir
+btn_publish,Publicar
+no,Não
+btn_save,Salve 
+btn_cancel,Cancelar
+btn_replace_photo,Substitua a foto
+Remove,Retirar
+success_img_delete,A imagem foi excluído com sucesso
+trans_date_label,Encontro
+success_user_add,Usuário do Sistema foi adicionado com sucesso
+success_user_edit,Usuário do Sistema foi atualizado com sucesso
+need_to_verify,"Sua necessidade de e-mail para verificar com o código de verificação. Por favor, dê uma olhada seu e-mail cadastrado."
+count_detail,Condes de Detalhe
+add_att_detail,Adicionar Detalhe Personalizada
+detail_label,Detalhe
+att_edit,Editar Personalizada
+success_att_add,Personalizada foi adicionado com sucesso
+success_att_edit,Personalizada foi atualizado com sucesso
+delete_att_label,Personalizada de exclusão?
+att_yes_all_message,"Ao excluir este cabeçalho personalizado, todos os detalhes personalizados relacionados também serão excluídos. Então, você ainda deseja excluí-lo?"
+success_att_delete,Personalizada foi excluído com sucesso
+att_delete_confirm_message,Você quer excluir todos os itens em que juntos produto?
+att_search,pesquisa Personalizada
+att_detail_search,Detalhe Pesquisa Personalizada
+att_price,Personalizada Preço
+list_attribute_detail,Lista Detalhe Personalizada
+selected_product_name,Selecionado Nome do produto
+selected_attribute_header,Personalizada selecionado Nome do cabeçalho
+att_detail_name,Personalizada Detalhe Nome
+attribute_detail_extra_price,"(Se o seu Personalizada cobrar preço adicional, forneça apenas preço adicional. Ele irá adicionar automaticamente ao preço do produto. Não substitui o preço do item. Basta adicionar como preço adicional. Por exemplo; price_total = product_price + attribute_additional_price)"
+success_attdetail_edit,Detalhe Personalizada foi atualizado com sucesso
+success_attdetail_add,Detalhe Personalizada foi adicionado com sucesso
+attdetail_edit,Actualização da informação Personalizada Detalhe
+success_attdetail_delete,Detalhe Personalizada foi excluído com sucesso
+att_no_only_message,Apenas Personalizada - Só Detalhe Personalizada excluirá a partir do sistema.
+delete_attdetail_label,Detalhe Personalizada de exclusão?
+err_att_name,Forneça o nome Personalizada
+err_att_len,O comprimento do nome de Personalizada deve ser maior que 4
+err_att_exist,Nome do Personalizada já está existia no sistema
+att_detail_info,Informações Personalizada Detalhe
+err_detail_name,Forneça o nome Detalhe Personalizada
+err_detail_len,O comprimento do Personalizada Detalhe Nome deve ser maior que 4
+err_detail_exist,Personalizada Detalhe nome já está existia no sistema
+collect_search,Procurar
+collect_photo,coleção de fotografia
+collect_name,Nome da colecção
+collect_status,coleção Estado
+collect_info,recolha de Informação
+collect_ordering,Order coleção
+collect_img,coleção de fotografia
+collect_search,pesquisa Colecção
+collect_add,Adicionar Colecção
+collect_edit,Editar coleção
+success_collect_edit,Coleção foi atualizada com sucesso
+success_collect_add,Coleção foi adicionada com sucesso
+success_collect_delete,Coleção foi excluído com sucesso
+err_collect_name,"Por favor, informe o nome da coleção"
+err_collect_len,O comprimento do nome de Coleção deve ser maior do que 4
+err_collect_exist,Nome da coleção já está existia no sistema
+delete_collect_label,Excluir Collection?
+collect_delete_confirm_message,Tem certeza que deseja deletar essa coleção?
+collect_yes_all_message,Sim All - Recolha e Itens excluirá a partir do sistema.
+collect_no_only_message,Apenas Collection - Só Coleção excluirá a partir do sistema.
+collect_yes_all_label,Sim Todos
+collect_no_only_label,Apenas Colecção
+please_select_product,"Por favor, selecione Comida"
+api_info,Ajuste Api
+api_order_by,Ordenar por
+api_count,Conde Api
+success_api_edit,Api configuração foi atualizado com sucesso
+comm_user,Comercial
+comm_desc,comentário Descrição
+comm_date,Encontro
+write_reply,Escrever um comentário resposta
+btn_reply,Resposta
+reply_cmt,comentar Responder
+comm_search,Procurar
+comment_header,Comentários
+date,Encontro
+reply,Resposta
+like_product_name,Nome do Produto
+like_user_name,Nome do usuário
+fav_product_name,Nome do Produto
+fav_user_name,Nome do usuário
+trans_total_amount,Valor total
+trans_discount_amount,desconto de Quantidade
+trans_balance_amount,Valor do saldo
+trans_billing_address,endereço de cobrança
+trans_delivery_address,Endereço de entrega
+btn_update,Atualizar
+trans_search,Pesquisa Transações
+btn_update,Atualizar
+Prd_qty,Qtde
+Prd_dis,Desconto(%)
+Prd_amt,Montante
+Prd_dis_price,Preço com desconto
+trans_status,Transações Status:
+success_trans_edit,Transações Estado foi atualizado com sucesso
+Prd_name,Nome do Produto
+Prd_price,Preço do produto
+popular_cat_name,Popular Nome da Categoria
+popular_cat_img,Categoria Popular Foto
+view,Visão
+popular_cat_search,Pesquisar Categoria Popular
+popular_cat_view,Categoria mais popular
+popular_cat_info,Categoria Informação Popular
+popular_cat_icon,Popular Categoria Ícone
+popular_prd_name,Popular Nome do produto
+popular_prd_code,Popular Product Code
+popular_prd_price,Popular Preço do produto
+popular_prd_search,Pesquisar Popular Comida
+popular_prd_view,Mais Popular do produto
+popular_prd_info,Popular Informações sobre o Produto
+popular_subcat_name,Popular Sub Categoria Nome
+popular_prd_desc,Descrição Popular Comida
+popular_prd_keyword,Populares Produto Palavras-chave
+popular_prd_highlight,Destaque Popular Comida
+purchased_cat_name,Comprado Nome da Categoria
+purchased_cat_img,Categoria comprada Foto
+purchased_cat_view,A maioria Categoria Comprada
+purchased_cat_info,Compra Categoria Informação
+purchased_cat_icon,Compra Categoria Ícone
+purchased_cat_search,Pesquisar Categoria Comprada
+purchased_prd_name,Comprado Nome do produto
+purchased_prd_code,Comprado Product Code
+purchased_prd_price,Comprado Preço do produto
+purchased_prd_view,Mais comprado Comida
+purchased_prd_search,Pesquisar comprou um produto
+purchased_subcat_name,Comprado Sub Categoria Nome
+purchased_prd_desc,Descrição do produto comprado
+purchased_prd_keyword,Comprou um produto Palavras-chave
+purchased_prd_info,Compra Informações sobre o produto
+purchased_prd_highlight,Destaque do produto comprado
+total_revenue,Transações mensais
+performance_label,Estatisticas
+comment_label,Comente
+prd_label,Contagem Comida
+cat_label,categorias Contagem
+subcat_label,Conde subcategoria
+dis_label,Desconto
+collect_label,Coleção
+view_all_label,Ver tudo
+transaction_table,Tabela transação
+name_label,Nome
+description_label,Descrição
+phone_label,Telefone 1 (Padrão)
+contact_email_label,email de contato
+shop_cover_photo_label,Loja Tampa Photo Upload
+shop_image_recommended_size,(Tamanho recomendado: 600 × 400)
+find_location_label,Digite & Find localização do Google API
+shop_lat_label,Latitude
+shop_lng_label,Longitude
+success_shop_add,Shop foi adicionado com sucesso
+success_shop_edit,Shop foi atualizado com sucesso
+delete_shop_label,Excluir Shop?
+shop_info,Informações loja
+delete_shop_confirm_message,"Tem certeza de que deseja excluir a loja, porque ele vai excluir?"
+phone_label2,telefone 2
+phone_label3,telefone 3
+address_label1,Endereço 1
+address_label2,Endereço 2
+address_label3,endereço 3
+shop_icon_photo_label,Loja Ícone Photo Upload
+shop_image_recommended_size_icon,(Tamanho recomendado: 256 × 256)
+about_mess_label,Mensageiro
+about_chart_section,Informações bate-papo
+stripe_label,[Opção 1]: Pagamento com listra
+stripe_publishable_key,Chave publicável
+stripe_secret_key,Chave secreta
+stripe_enable_label,Está ativado Stripe pagamento?
+stripe_enable_label,Está ativado Stripe pagamento?
+paypal_label,[Opção 2]: Pagamento com Paypal Ativado
+paypal_env_label,Paypal Ambiente
+paypal_merchant_label,Paypal Merchant ID
+paypal_pub_label,Paypal Chave Pública
+paypal_pri_label,Paypal Chave Privada
+paypal_enabled_label,Paypal está ativado?
+bank_transfer_label,[Opção 3]: O pagamento por transferência bancária
+bank_account_label,Conta bancária
+bank_name_label,Nome do banco
+bank_code_label,Código bancário
+branch_code_label,Código da Agência
+swift_code_label,Código Swift
+bank_enable_label,Está ativado transferência bancária?
+cod_label,[Opção 4]: Pagamento com dinheiro na entrega
+cod_email_label,E-mail de confirmação do COD
+cod_enable_label,Está ativado Cash On Delivery?
+currency_symbol_label,"Símbolo de moeda (por exemplo, $)"
+currency_form_label,Moeda Short Form (eg; USD)
+sender_email_label,Email Sender conta (por SMTP)
+btn_add_new,Adicionar novos usuários
+user_name,Nome do usuário
+user_edit,Editar usuário
+user_info,Informação do usuário
+user_add,adicionar usuários
+role_label,Papel do usuário
+conf_password,Confirme a Senha
+select_shop_label,"Se o usuário é 'Comprar Admin', selecione 'Comprar' para atribuir"
+contact_name,Nome de contato
+contact_email,email de contato
+success_contacts_delete,Contato foi excluído com sucesso
+delete_contact_label,Excluir contatos?
+contact_delete_confirm_message,Tem certeza que deseja excluir este Contatos?
+contact_info_label,Informações para contato Detalhe
+contact_phone,Pessoa de Contato Telefone
+about_contact_label,Sobre Contato Mensagem
+lbl_view,Visão
+back_button,Costas
+contact_receive_message,Você recebeu um novo contato nós mensagem.
+rating_product_name,Nome do Produto
+rating_user_name,Nome do usuário
+rating_value,Valor Classificação
+rating_title,Título
+pending_count,Pedido pendente
+delivery_count,Pedido de entrega
+completed_count,Ordem concluída
+order_count,Ordem total
+shipping_method_label,Selecione Padrão Método de Envio
+shipping_method,Padrão Método de Envio
+shop_tags,loja Etiquetas
+overall_tax_label,Fiscal global (%)
+shipping_tax_label,Imposto Shipping (%)
+whapsapp_no_label,Número Whatsapp
+refund_policy_label,Politica de reembolso
+privacy_policy_label,Política de Privacidade
+privacypolicy,termos e Condições
+app_info_lable,Sobre Informação
+about_title_label,Sobre Título
+description_label,Sobre Descrição
+about_email_label,Sobre Email
+about_phone_label,Sobre telefone
+about_website_label,Sobre site link
+about_seo_section,Informações SEO
+about_seo_title_label,SEO Título
+about_seo_desc_label,SEO Descrição
+about_seo_keywords_label,expressões SEO
+about_social_section,Informações sociais
+about_facebook_label,Facebook
+about_gplus_label,Google+
+about_instagram_label,Instagram
+about_youtube_label,Youtube
+about_pinterest_label,Pinterest
+about_twitter_label,Twitter
+about_color_section,Sobre Site Tema Cor
+about_theme,Temas disponíveis
+success_about_edit,Sobre é atualizado com êxito
+about_ads_analyt,Google Analytic & anúncios Configuração
+about_ads_client,anúncios cliente
+about_ads_slot,anúncios de entalhe
+about_analyt_track_id,Analytic Track ID
+about_ads_on,Ativar Google Adsense
+about_analyt_on,Ativar Google Analytic
+about_img,Sobre Foto da capa
+about_nav_icon,Ícone de navegação
+about_fav_icon,Fav Ícone
+about_backend_icon,para back-end
+total_label,total:
+device_label,Dispositivo
+devices_label,Devices
+registered_label,foi registrado para Push Notification
+noti_info,push Notification
+noti_message_label,mensagem
+noti_message_tooltips,"Por favor, forneça o messsage para notificação push."
+noti_send_btn,Enviar Push Notification
+sorry_no_device,"Desculpe, não há nenhum dispositivo registrado para notificação Push."
+select_cat,Selecione a Categoria
+success_noti_add,Notificação foi adicionado com sucesso
+success_noti_delete,Notificação foi excluído com sucesso
+delete_noti_label,Notificação de exclusão?
+noti_yes_message,Notificação sim- excluirá a partir do sistema.
+push_message,Mensagem impulso
+noti_des_label,Descrição
+noti_img,notificação Foto
+coupon_code_message,Cupom Código deve ser de pelo menos 4. Por exemplo; ACE1
+coupon_amount_message,"Cupom Dsicount valor deve ser como 10, 20, 30 .. Não é percentual."
+coupon_add,add Coupon
+coupon_info,Informações coupon
+coupon_name,Nome coupon
+coupon_code,Código do cupom
+coupon_amount,Valor do cupom
+coupon_edit,Editar Coupon
+coupon_search,pesquisa Coupon
+success_coupon_add,Cupom foi adicionada com sucesso
+success_coupon_edit,Cupom foi atualizado com sucesso
+success_coupon_delete,Cupom foi excluído com sucesso
+delete_coupon_label,Cupom de exclusão?
+coupon_delete_confirm_message,Tem certeza que deseja excluir este Cupom?
+err_coupon_name,Forneça o nome Coupon
+err_coupon_len,O comprimento de Cupão Nome deve ser maior do que 4
+err_coupon_exist,Cupom nome já está existia no sistema
+shipping_name,Nome de embarque
+shipping_price,Preço
+shipping_days,Dias
+shipping_add,Adicionar Método de Envio
+shipping_edit,Editar método de envio
+shipping_search,Pesquisar Método de Envio
+shipping_info,Método do transporte Informação
+success_shipping_add,Método do transporte foi adicionado com sucesso
+success_shipping_edit,Método do transporte foi actualizado com sucesso
+success_shipping_delete,Método do transporte foi excluído com sucesso
+err_shipping_name,"Por favor, forneça o transporte nome do método"
+err_shipping_len,A duração do envio Nome do método deve ser maior que 4
+err_shipping_exist,Envio Nome do método já está existia no sistema
+delete_shipping_label,Excluir método de envio?
+shipping_delete_confirm_message,Tem certeza que deseja excluir este método de envio?
+tag_name,Nome do tag
+tag_img,Marcar foto
+tag_add,Adicionar etiqueta
+tag_search,pesquisa Tag
+tag_info,Informações tag
+tag_icon,tag Ícone
+err_tag_name,"Por favor, informe o nome da tag"
+err_tag_len,O comprimento do Tag Nome deve ser maior que 4
+err_tag_exist,Tag Nome já está existia no sistema
+success_tag_add,Tag foi adicionada com sucesso
+success_tag_edit,Tag foi atualizado com sucesso
+success_tag_delete,Tag foi excluído com sucesso
+delete_tag_label,Tag de exclusão?
+tag_delete_confirm_message,Tem certeza que deseja excluir este Tag?
+btn_version,Versão
+ver_info,Versão informação
+ver_no_label,Version No
+ver_msg_label,versão Mensagem
+ver_title_label,versão Título
+ver_force_update,Atualização Força versão?
+ver_need_data,Versão clara necessidade de dados?
+success_version_add,Versão foi adicionada com sucesso
+success_version_edit,Versão foi atualizada com sucesso
+paypal_transaction_failed,"Desculpe, Paypal Transação falhou."
+stripe_transaction_failed,"Desculpe, Stripe Transação falhou."
+err_user_not_exist,"Desculpe, credenciais de login do usuário incorretas"
+no_record,No More Registro
+delete_register_user_label,Apagar Utilizador Registado?
+register_user_delete_confirm_message,Tem certeza que deseja excluir este utilizador registado?
+success_registered_user_delete,Utilizador Registado foi excluído com sucesso
+success_user_delete,Usuário foi excluído com sucesso
+user_ban,Ban usuário
+user_ban_label,Banimento
+user_unban,unban
+err_user_banned,"Desculpe, você não pode entrar porque sua conta é proibido."
+no_record,Não há mais registros
+invalid_api_key,API Key é inválido
+apikey_info,Api Informações Chave
+key_label,Chave
+success_apikey_edit,Api Key é atualizado com êxito
+success_apikey_add,Api Key é adicionado com sucesso
+err_user_email_exist,Usuário E-mail é já existem
+trans_payment_method,Forma de pagamento :
+trans_memo,Memo:
+trans_item_sub_total,Item de Sub Total:
+trans_coupon_discount_amount,Cupom de desconto Montante (-):
+trans_overall_tax,fiscal global
+trans_shipping_cost,O custo de expedição (Usando
+trans_shipping_tax,Imposto de envio
+trans_total_balance_amount,Total Saldo Valor:
+order_desc,Encomendar de PS-Store:
+err_email_not_send_to_shop,"Desculpe, enviar e-mail não é capaz de enviar o proprietário da loja."
+err_email_not_send_to_user,"Desculpe, enviar e-mail não é capaz de enviar ao cliente."
+order_receive_subject,Nova ordem foi recebida
+order_status_subject,status de Ordem foi alterado para
+country_name,Nome do país
+country_add,Adicione País
+country_search,Pesquisar País
+country_edit,Editar País
+country_info,Informação sobre o País
+success_country_add,País foi adicionada com sucesso
+success_country_edit,País foi atualizado com sucesso
+success_country_delete,País foi excluído com sucesso
+delete_country_label,Cancelar País?
+country_yes_all_message,"Ao excluir este país, ele irá apagar todas as cidades relacionadas e zonas também. Então, você ainda deseja apagá-lo?"
+err_country_name,"Por favor, forneça o nome do país"
+err_country_len,O comprimento do nome do país deve ser maior que 4
+err_country_exist,País Nome já existia no sistema
+city_name,Nome da Cidade
+city_add,Adicionar Cidade
+select_country,Selecione Nome País
+city_search,Pesquisar Cidade
+city_edit,Editar Cidade
+city_info,Informações sobre a cidade
+success_city_add,Cidade foi adicionada com sucesso
+success_city_edit,Cidade foi atualizado com sucesso
+success_city_delete,Cidade foi excluído com sucesso
+delete_city_label,Excluir City?
+city_delete_confirm_message,Tem certeza que deseja deletar essa City?
+err_city_name,"Por favor, informe o nome da cidade"
+err_city_len,O comprimento do nome da cidade deve ser maior que 4
+err_city_exist,"Nome da Cidade, já existia no sistema"
+f_item_country_required,"Por favor, selecione Nome País"
+zone_name,Nome da zona
+zone_search,pesquisa Zona
+zone_add,Adicionar Zona
+zone_edit,Editar Zona
+zone_info,Informações zona
+select_city,Selecionar Nome da Cidade (Multiple Select)
+success_zone_add,Zona foi adicionado com sucesso
+success_zone_edit,Zona foi atualizada com sucesso
+success_zone_delete,Zona foi excluído com sucesso
+delete_zone_label,Excluir Zone?
+zone_delete_confirm_message,Tem certeza que deseja deletar essa Zone?
+err_zone_name,"Por favor, forneça o nome da zona"
+err_zone_len,O comprimento da Zona Nome deve ser maior que 4
+err_zone_exist,Zone Name já está existia no sistema
+f_item_city_required,"Por favor, selecione Nome da Cidade"
+select_zone,selecione Zonas
+shipping_zone_add,Adicionar envio Com Zona
+shipping_zone_edit,Editar envio Com Zona
+shipping_zone_search,Pesquisar envio Com Zona
+shipping_zone_info,Envios Com Informações Zona
+success_shipping_zone_add,Envio Com Zona foi adicionada com sucesso
+success_shipping_zone_edit,Envio com a zona foi atualizada com sucesso
+success_shipping_zone_delete,Envio Com Zona foi excluído com sucesso
+delete_shipping_zone_label,Excluir envio Com Zone?
+shipping_zone_delete_confirm_message,Tem certeza que deseja deletar essa envio Com Zone?
+f_item_zone_required,"Por favor, selecione Nome da zona"
+shipping_package_name,Envio Nome do pacote
+need_to_enable_zone_shipping,Ative o transporte zona de envio Setting.
+dup_zone_name,Zone Name já está existiu
+you_selected,Você selecionou
+per_order_based,Por ordem baseada
+cost,Custo
+per_item_based,Per Item Baseado
+delivery_increment_of_zone,Entrega Incremento da Zona
+based_cost,Custo baseado
+take_prd_shipping_cost,Tome De Custo do produto Transporte
+free_shipping,Envio Grátis
+zone_from_other_package,Zona já é selecionado a partir de outro pacote.
+increment_formula,Fórmula: (Custo de envio do produto) x (Valor do incremento) x (QTY)
+increment_note,Nota: Necessidade de default conjunto é 1.
+cat_module,categorias
+contact_module,Fale Conosco Mensagem
+system_user_module,Usuários do sistema
+export_database_module,Banco de Dados de exportação
+subcat_module,subcategorias
+discount_module,descontos
+blog_module,Blogs
+product_module,Comida
+collection_module,Colecções
+noti_module,Notis
+version_module,Versão
+comments_module,Comentários
+like_module,gostos
+favourites_module,favoritos
+transaction_module,transações
+popular_prd_module,Comida mais populares
+purchase_prd_module,A maioria dos Comida compras
+popular_cat_module,A maioria das categorias populares
+purchase_cat_module,A maioria das Categorias de Compra
+rate_prd_module,Mais Votados Comida
+coupon_dis_module,Cupom Descontos
+shipping_module,método de envio
+app_module,Sobre App
+shop_module,Sobre Loja
+register_user_module,Usuários registrados
+api_key_module,chaves de API
+countries_module,Países
+cities_module,Cidades
+zone_module,Zona
+shipping_zone_module,Transporte com regiões
+language_module,línguas
+entry_group,Entrada
+user_feedback_group,Feedback do usuário
+user_mang_group,Gestão de utilizadores
+reports_group,Relatórios
+miscellaneous_group,Diversos
+setting_group,Configuração
+second_ago,segundo
+minute_ago,minuto
+hour_ago,hora
+day_ago,dia
+week_ago,semana
+month_ago,mês
+year_ago,ano
+decade_ago,década
+just_now_label,Agora mesmo
+ago_label,atrás
+btn_active,Ativo
+lang_string,Cordas idioma
+lang_name,Nome do idioma
+lang_add,Adicionar idioma
+lang_info,informações língua
+lang_symbol,Símbolo
+lang_search,pesquisa Idioma
+lang_edit,Editar Idioma
+success_lang_edit,Idioma foi atualizado com sucesso
+success_lang_add,Idioma foi adicionada com sucesso
+success_lang_delete,Idioma foi excluído com sucesso
+err_lang_name,"Por favor, forneça nome do idioma"
+err_lang_len,O comprimento do Nome do Idioma deve ser maior que 4
+err_lang_exist,Nome do Idioma já existia no sistema
+delete_lang_label,Excluir idioma?
+lang_delete_confirm_message,Você quer apagar todas as cordas sob que juntos idioma?
+lang_yes_all_label,Sim Todos
+lang_no_only_label,Apenas Língua
+lang_yes_all_message,Sim All - Linguagem e Itens excluirá a partir do sistema.
+language_id,Língua
+lang_string_key,Chave
+lang_string_value,Valor
+lang_string_info,Informações sobre strings de idiomas
+select_language,Idioma selecionado
+btn_import,Importar
+csv_symbol_link,arquivo CSV de exemplo aqui
+lang_str_search,Cadeia de pesquisa Idioma
+success_langstr_import,Cordas linguagem com sucesso arquivo CSV carregado
+lang_str_add,Adicionar Cadeia Idioma
+lang_str_edit,Edit String Idioma
+lang_deactive,Deactive
+success_lang_str_edit,Cordas linguagem foi atualizada com sucesso
+success_lang_str_add,Cordas linguagem foi adicionado com sucesso
+err_lang_str_name,"Por favor, forneça nome de cadeia idioma"
+err_lang_str_len,O comprimento da corda linguagem deve ser superior a 4
+err_lang_str_exist,Cordas idioma já está existia no sistema
+lang_title,Deleted idioma?
+lang_warning,Você não pode excluir idioma ativo.
+btn_ok,Está bem
+list_lang_label,línguas
+list_lang_str_label,Cordas idioma
+err_lang_symbol,"Por favor, forneça símbolo idioma"
+pls_att_name,Por favor Personalizada Detalhe Nome
+remove_label,Retirar
+btn_no,Não
+pls_city_name,Agradar Nome da Cidade
+pls_collect_name,Agradar Nome da colecção
+pls_dis_percent,Por favor por cento de desconto
+pls_prd_name,Por favor Nome do produto
+pls_highlight_info,Por favor destacar informações
+pls_code,Favor informar o código
+pls_unit_price,Por favor Preço unitário
+pls_shipping_cost,Por favor custos de envio
+pls_minimum_order,Por favor Mínima
+pls_prd_measurement,Por favor Medição Comida
+pls_prd_unit,"Por favor, unidade de produto"
+pls_search_tag,"Por favor, procure Tag"
+pls_prd_desc,"Por favor, Descrição do produto"
+pls_shipping_name,Agradar envio Nome do pacote
+per_order_post,Por Pedido Custo
+pls_sub_cat,Por favor Sub Categoria Nome
+pls_zone_name,Agradar Zone Name
+success_reset_email_sent,Repor-mail é enviado com sucesso
+err_touch_count,Problema In Touch Contagem!
+coupon_not_found,Seu código de cupom é inválido.
+require_user_id,Necessário ID de usuário
+require_platform,plataforma necessária
+file_na,Não disponível
+token_already_exist,"Desculpe, dispositivo já token de existir."
+err_noti_register,"Desculpe, não é o problema de registro Push Notification."
+success_noti_register,O seu dispositivo registrado com êxito para Push Notification.
+success_noti_unregister,O seu dispositivo não registrado com sucesso para Push Notification.
+err_noti_unregister,"Desculpe, não é o problema para cancelamento de registro Push Notification."
+err_in_noti_read,"Desculpe, notificação não é capaz de ler."
+success_touch_count,Toque em Contagem inserida com sucesso.
+backend_setting_module,backend Configuração
+backend_config_info_lable,Backend a informação da definição
+sender_name_label,Nome do remetente
+receive_email_label,Receber e-mail
+sender_email_label,Email Sender
+img_section,Seção imagem
+fcm_api_key_label,chave api FCM
+backend_login_img,Backend Entrada Imagem de Fundo
+backend_logo,Logo backend
+backend_fav_icon,Backend Fav Ico
+upload_backend_logo,Logo Carregar Backend
+upload_fav_icon,Carregar Fav Ícone
+upload_login_img,Carregar Entrada Foto
+pwd_reset_label,Redefinição de senha
+pwd_reset_link,"Por favor, clique no seguinte link para redefinir sua senha"
+reset_link_label,Password Reset
+best_regards_label,Cumprimentos
+hi_admin_label,oi administrador
+name_label,Nome
+email_label,O email
+phone_label,telefone
+msg_label,mensagem
+bank_acc_label,Conta bancária :
+bank_name_label,Nome do banco :
+bank_code_label,Código bancário :
+branch_code_label,Código da Agência
+swift_code_label,Código Swift
+pay_met_cod,Método de Pagamento: Dinheiro na Entrega
+pay_met_paypal,Método de Pagamento: Paypal
+pay_met_stripe,Método de Pagamento: Stripe
+pay_met_bank,Método de Pagamento: Transferência Bancária <br>
+price_label,Preço :
+unit_label,Unidade
+shipping_cost_label,Frete
+qty_label,QTY
+hi_label,Oi
+order_receive_info,New Order é recebida com informações a seguir.
+trans_code,Trans. Código
+trans_status_label,Trans. estado
+billing_cus_name,Faturamento Nome do cliente
+billing_add1,Endereço de cobrança 1
+billing_add2,Endereço de cobrança 2
+billing_phone,faturamento de telefone
+billing_email,faturamento Email
+billing_shipping_name,Faturamento Shipping Name
+shipping_add1,Endereço para envio 1
+shipping_add2,Endereço para envio 2
+shipping_phone,Envio de telefone
+shipping_email,Envio-mail
+memo_label,Memorando
+zone_shipping,zona envio
+prd_detail_info,Detalhes do produto informações em abaixo
+sub_total,sub total
+coupon_dis_amount,Cupom de desconto Montante (-)
+overall_tax,Fiscal global (+)
+shipping_cost,Custo de transporte (+)
+shipping_tax,Imposto Shipping (+)
+total_bal_amt,Total Saldo Valor
+no_country_available,"Desculpe, os países de envio não estão disponíveis."
+user_register_success_but_email_not_send,"Usuário registo sucesso, mas email não enviar."
+new_user_register,Novo Registro de Conta de Usuário
+verify_code_sent,Código de verificação foi enviado
+write_reply_label,Escreva uma resposta...
+success_backend_edit,Backend configuração foi atualizado com sucesso
+topics_label,tópicos
+smtp_section,Configuração de SMTP
+smtp_host_label,Anfitrião SMTP
+smtp_host_placeholder,por exemplo: ssl: //smtp.hostmail.com
+smtp_port_label,SMTP Número da porta
+smtp_enable,SMTP Habilitar?
+smtp_user_label,Usuário SMTP
+smtp_pass_label,Senha SMTP
+lang_active,Ativo
+dashboard_label,painel de controle
+cannot_deactive,"Desculpe, não é possível desativar."
+err_symbol_exist,O símbolo do idioma já existe no sistema
+new_user_acc,Sua nova conta de usuário foi criada. Bem-vindo à Flutter Restaurant. Verifique com o código abaixo para ativar sua conta.
+verify_code_label,Código Verificado
+restaurant_branch_module,Restaurante Ramos
+shop_rates_module,Restaurante Mais Votado
+reservation_module,Reservas
+trans_status_module,Status da transação
+deli_status_module,Status de entrega
+payment_status_module,Status do pagamento
+deliboys_module,Gestão de entregadores
+add_on_module,Adicionar
+shipping_areas_module,Área de despacho
+app_configs_module,Configuração de aplicativo
+food_add_img,Adicionar imagem
+food_add_name,Add On Name
+food_add_description,Descrição
+food_add_price,Preço
+food_additional_info,Informações Adicionais
+err_food_add_name,Forneça o nome Add On.
+err_food_add_len,O comprimento do nome do complemento deve ser maior que 4
+err_food_add_exist,O nome Add On já existe
+food_additional_add,Adicionar Add On
+additional_search,Pesquisar Add On
+additional_edit,Editar Add On
+success_additional_edit,O complemento foi atualizado com sucesso.
+success_additional_add,Add On foi adicionado com sucesso.
+success_additional_delete,O complemento foi excluído com sucesso.
+branch_name,Nome
+branch_description_label,Descrição
+branch_address_label,Endereço
+branch_phone_label,telefone
+branch_info,Informações da filial do restaurante
+branch_img,Restaurante Branch Foto
+err_branch_name,Nome da Filial do Restaurante
+err_branch_len,O comprimento do nome da filial do restaurante deve ser maior que 4
+err_branch_exist,Já existe filial do restaurante
+err_branch_description,Forneça a descrição do restaurante
+err_branch_address,Forneça o endereço da filial do restaurante
+err_branch_phone,Forneça o telefone da filial do restaurante.
+branch_add,Adicionar filial do restaurante
+branch_search,Pesquisar Restaurante Branch
+success_branch_edit,A filial do restaurante foi atualizada com sucesso.
+success_branch_add,Restaurant Branch foi bem sucedido
+success_branch_delete,A ramificação do restaurante foi excluída.
+deli_status_title,Título
+deli_status_add,Adicionar status de entrega
+err_deli_status_name,Forneça o título do status de entrega
+err_deli_status_len,O comprimento do Título do status de entrega deve ser maior que 4
+err_deli_status_exist,Status de entrega da pesquisa
+deli_status_search,Status de entrega da pesquisa
+deli_status_edit,Editar status de entrega
+success_deli_status_edit,O status da entrega foi editado com sucesso.
+success_deli_status_add,O status de entrega foi adicionado com sucesso.
+success_deli_status_delete,O status da entrega foi excluído com sucesso.
+deli_status_yes_all_message,Tem certeza de que deseja excluir este status de entrega?
+delete_deli_status_label,Excluir status da entrega?
+pay_status_info,Informações sobre status de pagamento
+err_pay_status_name,Forneça o título do status do pagamento
+err_pay_status_len,A duração do status do pagamento deve ser maior que 4
+err_pay_status_exist,O status do pagamento já existe.
+pay_status_add,Adicionar status de pagamento
+pay_status_search,Pesquisar status de pagamento
+pay_status_edit,Editar status do pagamento
+success_pay_status_edit,O status do pagamento foi editado com sucesso
+success_pay_status_add,O status do pagamento foi adicionado com sucesso
+success_pay_status_delete,O status do pagamento foi excluído com sucesso.
+delete_pay_status_label,Excluir status do pagamento?
+pay_status_yes_all_message,Tem certeza de que deseja excluir este status de pagamento?
+trans_status_info,Informações sobre o status da transação
+err_trans_status_name,Forneça o título do status da transação
+err_trans_status_len,A duração do Status da transação deve ser maior que 4
+err_trans_status_exist,O status da transação já existe
+trans_status_search,Status da transação de pesquisa
+trans_status_add,Adicionar status de transação
+delete_trans_status_label,Excluir status da transação?
+trans_status_edit,Editar status da transação
+success_trans_status_edit,O status da transação foi editado com sucesso.
+success_trans_status_add,A transação foi adicionada com sucesso.
+success_trans_status_delete,O status da transação foi excluído com sucesso.
+trans_status,Status das transações:
+trans_status_yes_all_message,Tem certeza de que deseja excluir este status da transação?
+shp_area_price,Preço
+err_shp_area_name,Nome da área de envio
+shp_area_info,Informações sobre a área de remessa
+shp_area_add,Ajouter une zone d'expédition...
+err_shp_area_exist,A área de expedição já existe
+success_shp_area_edit,A área de expedição foi editada.
+shp_area_edit,Editar área de expedição
+success_shp_area_add,A Área de expedição foi adicionada com sucesso.
+success_shp_area_delete,A área de expedição foi excluída.
+shp_area_name,Nome da área
+shp_area_search,Pesquisar Área de expedição
+err_shp_area_len,O comprimento da área de expedição deve ser maior que 4
+delete_shp_area_label,Excluir área de expedição?
+shp_area_delete_confirm_message,¿Estás segura de eliminar esta Área de envío?
+app_config_info,Informações de configuração do aplicativo
+success_app_config_edit,A configuração do aplicativo foi atualizada com sucesso.
+app_configs_module,Configuração de aplicativo
+module_group_lang,Grupo de módulos
+group_name,Nome do grupo de módulos
+group_icon,Ícone do grupo de módulos
+group_lang_key,Chave de idioma
+group_info,Informações do grupo de módulos
+group_search,Grupo de módulos de pesquisa
+group_add,Adicionar grupo de módulos
+success_group_edit,O grupo de módulos foi editado com sucesso
+success_group_add,O grupo de módulos foi adicionado com sucesso
+group_edit,Editar grupo de módulos
+success_group_delete,O grupo de módulos foi excluído com sucesso
+err_group_name,Forneça o grupo de módulos
+err_group_len,O comprimento do nome do grupo de módulos deve ser maior que 4
+err_group_exist,O nome do grupo de módulos já existe
+module_lang,Módulo
+module_desc,Descrição
+module_ordering,Encomenda
+module_add,Adicionar módulo
+module_info,Informações do módulo
+module_name,nome do módulo
+is_show_on_menu,Mostrar no menu?
+module_lang_key,Chave de idioma do módulo
+module_select_group,Selecionar grupo de módulos
+delete_module_label,Excluir módulo?
+module_delete_confirm_message,Tem certeza de que deseja excluir este módulo?
+delete_group_label,Excluir grupo de módulos?
+group_delete_confirm_message,Tem certeza de que deseja excluir este grupo de módulos?
+err_module_name,Forneça o nome do módulo
+err_module_len,O comprimento do nome do módulo deve ser maior que 4
+err_module_exist,O nome do módulo já existe
+module_search,Nome do módulo de pesquisa
+success_module_edit,O módulo foi atualizado com sucesso.
+success_module_add,O módulo foi adicionado com sucesso.
+module_edit,Módulo de edição
+success_module_delete,O módulo foi excluído com sucesso.
+prd_ordering,Encomenda
+prd_ingredient,Ingrediente
+prd_nutrient,Nutriente
+delete_system_user_label,Excluir usuário do sistema?
+system_user_delete_confirm_message,Tem certeza de que deseja excluir este usuário do sistema?
+color_code,Cor do status da transação
+deli_status_ordering,Encomenda
+final_stage,Estágio final
+final_stage_delete,O estágio final não pode ser excluído.
+start_stage_delete,O estágio inicial não pode excluir.
+fcm_api_key_deli_boy_label,Chave de API do entregador fcm
+policy_info,Informações da Política de Privacidade
+content_label,Conteúdo
+privacy_policy_module,Política de Privacidade
+success_policy_edit,A Política de Privacidade foi atualizada com sucesso
+success_policy_add,A Política de Privacidade foi adicionada com sucesso
+not_yet_activate,Sua conta ainda não está ativada.
+user_status,Status do usuário
+order_submit,Pedido Enviado
+deliveried,Entregue
+delete_deliboy_label,Menino de entrega de exclusão?
+deliboy_delete_confirm_message,Tem certeza que deseja excluir este menino de entrega?
+success_deliboy_delete,Menino de entrega foi excluído com sucesso
+price_level,Nível de preço
+highlighted_info,informações destacadas
+restaurant_version,Flutter Restaurant Versão
+deliboy_version,Delivery Boy Version
+err_user_phone_exist,O telefone do usuário já existe.
+razor_enabled_label,Está ativado Navalha?
+razor_label,[Option 6]: Pagamento Com Navalha
+razor_key_label,navalha Key
+banktransfer_label,[Opção 3]: Pagamento com transferência bancária
+err_user_phone_exist,O telefone do usuário já existe.
+about_me,Sobre mim,,
+trans_prd_checkout,"Desculpe, um dos produtos selecionados não está disponível em nosso sistema."
+img_configuration,Configuração de imagem
+land_width_label,Largura Paisagem
+potrait_height_label,Altura do Retrato
+square_label,Altura Quadrada
+err_user_not_existed,Sua conta não está existia no sistema.
+err_lat_lng,Latitude e Longitude não deve ser 0.0.
+record_not_found,000 ## Desculpe
+no_record_pagination,10002 ## Desculpe
+email_verification_enabled, -Mail de verificação Activado?
+minimum_order_amount, Ordem Mínima Quantidade
+approve_message_1,Felicitações! Entrega aprovado Boy (
+approve_message_2,)
+reject_message_1,Desculpe! Entrega rejeitado Boy (
+reject_message_2,)
+banusers_module,Ban Lista Usuários
+btn_view,Visão
+btn_back,Costas
+user_auto_approved, "Sua nova conta de usuário foi criada. Bem-vindo ao Flutter Restaurant."
+reservation_lang_module,Reservas
+restaurant_branches_module,Filiais de restaurantes
+resv_info,Informação de reserva
+resv_date_label,Data de reserva (DD / MM / AAAA)
+resv_time_label,Tempo de reserva (HH: MM) Formato de 24 horas
+reserved_by,Reservado por
+resv_note,Nota adicional
+resv_status,Status de reserva
+trans_delivery_pickup_date,Data de coleta da entrega: 
+trans_delivery_pickup_time,Horário de coleta da entrega: 
+pickup_message,Retirar Mensagem
+pickup_label,[Opção 6]: Pagamento com retirada
+pickup_enabled,O Pick Up está ativado?
+cus_pick_up_order,O cliente retirará este pedido.
+success_logout,Usuário tem sido sucesso de logout.
+paystack_setting,Paystack Configuração,,
+paystack_label,[Option 7]: Pagamento com Paystack,,
+paystack_key_label,Paystack Key,,
+paystack_enabled_label,Paystack está ativado?,,
+btn_duplicate,Duplicada
+success_prd_duplicate_add,O item duplicado foi adicionado com sucesso,
+err_lat,"Por favor, forneça Latitude",,
+err_lng,"Por favor, forneça Longitude",,
+err_lat_lng,Sua latitude e longitude não deve ser 0.0,,
+lat_invlaid,Latitude deve estar entre -90 e 90 graus inclusive.,,
+lng_invlaid,Longitude deve estar entre -180 e 180 graus inclusive.,,
+maximum_order,Order máxima
+pls_maximum_order,Agradar máxima Order
+deeplink_section,Seção Deep Linking,,
+dyn_link_key_label,Chave de link dinâmico,,
+dyn_link_url_label,URL de ligação dinâmica,,
+dyn_link_package_name_label,Nome do pacote de link dinâmico,,
+dyn_link_domain_label,Domínio de ligação dinâmica,,
+dyn_link_deep_url_label,URL de link direto,,
+prd_dynamic_link_label,Product Dynamic Link,,
+dyn_link_package_name_ios, ligando o nome do pacote IOS dinâmica
+dyn_link_ios_appstore_id,Dinâmica Linking IOS AppStore Id
+prd_image,Imagem do Produto

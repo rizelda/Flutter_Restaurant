@@ -1,0 +1,1049 @@
+key,القيمة
+site_name,Flutter Restaurant
+setting_label,ضبط
+lbl_search_shop,البحث متجر
+status_label,المعاملات الحالة
+trans_detail,عملية التفاصيل
+shops_unpublish_list_label,لم تنشر قائمة للتسوق
+btn_create_new_shop,إنشاء متجر جديد
+btn_shop_list,إلغاء النشر قائمة للتسوق
+btn_push_notification,إعلام دفع
+btn_system_user,نظام العضو
+btn_export_database,تصدير قاعدة البيانات
+btn_about_app,حول التطبيقات
+address_label,عنوان
+lbl_about_shop,معلومات عن متجر
+lbl_categories,التصنيفات
+user_email,البريد الإلكتروني
+user_password,كلمه السر
+sign_in,تسجيل الدخول
+total_users_count_label,إجمالي المستخدمين
+total_cat_count_label,إجمالي الفئات
+total_wallpaper_count_label,مجموع خلفيات
+total_contact_label,إجمالي رسائل الاتصال
+btn_search,بحث
+back_shop_list,العودة قائمة للتسوق
+err_image_missing,يتم تحميل أي ملف
+about_info,معلومات عن
+allowed_modules,وحدة سمح
+shop_name,اسم المحل
+add_more_color,إضافة المزيد من الألوان
+color_code,لون المنتج
+product_title,عنوان
+product_desc,وصف
+add_more_spec,إضافة المزيد من المواصفات
+prd_specification,مواصفات الغذاء
+product_name_count,عدد اسم الطعام
+select_multiple_images,يرجى تحديد صور طعام متعددة.
+noti_add,إضافة Notis
+prd_unit,وحدة المنتج
+prd_measurement,قياس المنتج
+noti_search,البحث نوتي
+error_login,بيانات اعتماد تسجيل الدخول الخاصة بك خاطئة. حاول مرة اخرى.
+profile_img,صورة البروفيل
+cat_add,إضافة فئات
+wrn_no_data,لا توجد بيانات حتى الآن
+cat_name,اسم التصنيف
+cat_img,فئة صور
+cat_info,معلومات الفئة
+cat_ordering,تنظيم
+cat_edit,تحرير الفئة
+success_cat_add,تمت إضافة فئة بنجاح
+success_cat_edit,تم تحديث فئة بنجاح
+success_upload,تم تحديث الصورة بنجاح
+delete_cat_label,حذف الفئة؟
+cat_yes_all_message,عندما حذف هذه الفئة، فإنه سيتم حذف كل الفئات الفرعية والمنتجات ذات الصلة أيضا. لذا، هل لا تزال ترغب في حذفه؟
+success_cat_delete,لقد تم حذف الفئة بنجاح
+cat_search,البحث التصنيف
+cat_icon,فئة أيقونة
+btn_replace_icon,استبدال أيقونة
+upload_icon,تحميل أيقونة
+about_upload_icon,تحميل أيقونة
+fav_upload_icon,الصوت العربي الحر أيقونة
+sidebar_upload_icon,الشريط الجانبي الشعار
+btn_upload,رفع
+err_cat_name,يرجى تقديم اسم الفئة
+err_cat_len,يجب أن يكون طول اسم التصنيف أكبر من 4
+err_cat_exist,وتوجد بالفعل اسم التصنيف في النظام
+subcat_info,جنوب معلومات الفئة
+subcat_name,الفرعي اسم التصنيف
+subcat_ordering,التصنيف الفرعي ترتيب
+subcat_img,الفئة الفرعية صور
+subcat_icon,التصنيف الفرعي أيقونة
+subcat_search,بحث التصنيف الفرعي
+subcat_add,إضافة التصنيف الفرعي
+subcat_edit,تحرير الفئة الفرعية
+success_subcat_edit,تم تحديث التصنيف الفرعي بنجاح
+success_subcat_add,تمت إضافة التصنيف الفرعي بنجاح
+success_subcat_delete,لقد تم حذف التصنيف الفرعي بنجاح
+err_subcat_name,يرجى تقديم اسم الفئة الفرعية
+err_subcat_len,يجب أن يكون طول اسم الفئة الفرعية أكبر من 4
+err_subcat_exist,وتوجد بالفعل اسم الفئة الفرعية في النظام
+delete_subcat_label,حذف الفئة الفرعية؟
+subcat_delete_confirm_message,هل أنت متأكد من حذف هذه الفئة الفرعية؟
+subcat_yes_all_message,عند حذف هذه الفئة الفرعية ، سيتم حذف جميع الأطعمة ذات الصلة أيضًا. لذا ، هل ما زلت تريد حذفه؟
+subcat_no_only_message,<ب> فقط التصنيف الفرعي </ B> - فقط الفئة الفرعية سيتم حذف من النظام.
+subcat_yes_all_label,نعم جميعا
+subcat_no_only_label,فقط التصنيف الفرعي
+select_subcat,حدد الفئة الفرعية
+select_cat,اختر الفئة
+subcat_panel_title,جنوب قائمة الفئات
+Prd_search_cat,حدد اسم التصنيف
+btn_reset,إعادة تعيين
+btn_yes,نعم
+upload_photo,حمل الصورة
+upload_button,رفع
+replace_photo_button,استبدال صورة الغلاف
+photo_desc_label,وصف الصوره
+del_cover_photo,حذف صورة الغلاف
+del_cover_photo_confirm,هل أنت متأكد أنك تريد حذف الصورة؟
+del_icon_label,أيقونة الحذف
+del_icon_confirm,هل أنت متأكد أنك تريد حذف رمز؟
+status,الحالة (هل نشر؟)
+dis_name,اسم الخصم
+dis_add,إضافة خصومات
+dis_percent,نسبة الخصم (٪)
+choose_prd_label,اختر الأطعمة
+dis_info,خصم معلومات
+dis_photo,خصم صور
+prd_name,اسم الغذاء
+prd_code,الشفرة
+product_price,السعر ($)
+dis_add,إضافة خصومات
+success_dis_add,تمت إضافة خصومات بنجاح
+success_dis_edit,تم تحديث تخفيض بنجاح
+delete_dis_label,خصومات الحذف؟
+dis_delete_confirm_message,هل أنت متأكد من حذف هذه الخصومات؟
+dis_edit,تحرير خصومات
+err_dis_name,يرجى تقديم اسم الخصم
+err_dis_percent,يرجى تقديم الخصم في المئة
+err_dis_len,يجب أن يكون طول اسم الخصم أكبر من 4
+err_dis_exist,وجدت اسم الخصم بالفعل في النظام
+success_dis_delete,لقد تم حذف تخفيض بنجاح
+discount_photo,خصم صور
+dis_search,بحث الخصم
+feed_add,إضافة الخلاصات الجديدة
+feed_info,خلاصات جديدة معلومات
+feed_name,أطعمنى
+feed_desc,تغذية الوصف
+feed_edit,تحرير الخلاصات
+success_feed_add,تمت إضافة خلاصات جديدة بنجاح
+success_feed_edit,تم تحديث الخلاصات الجديدة بنجاح
+err_dup_name,وجدت الاسم بالفعل في النظام
+err_feed_exist,وتوجد بالفعل تغذية اسم في النظام
+delete_feed_label,حذف الجديدة الخلاصات؟
+feed_delete_confirm_message,هل أنت متأكد من حذف هذه الخلاصات الجديد؟
+success_feed_delete,لقد تم حذف الخلاصات الجديدة بنجاح
+f_item_cat_required,يرجى تحديد اسم الفئة
+err_feed_len,يجب أن يكون طول تغذية اسم أكبر من 4
+err_feed_name,يرجى تقديم اسم الأعلاف
+feed_search,تغذية البحث
+feed_gallery,تغذية معرض
+list_product_nav,طعام
+prd_add,أضف طعامًا
+att_add,إضافة مخصص جديد
+add_att_detail,إضافة تفاصيل مخصصة جديدة
+list_attribute_header,قائمة رؤوس مخصصة
+wrn_no_data,لا توجد بيانات حتى الآن
+product_name,اسم الغذاء
+att_name,اسم مخصص
+Prd_search_subcat,حدد الفرعية اسم التصنيف
+Prd_search_dis,اختر نوع الخصم
+product_gallery,معرض الغذاء
+prd_info,معلومات الغذاء
+rec_prd_info,الأطعمة المضافة مؤخرا
+att_info,معلومات مخصصة
+prd_desc,وصف الغذاء
+prd_high_info,معلومات تسليط الضوء على الغذاء
+prd_edit,تحرير الطعام
+prd_code,كود الغذاء
+success_prd_add,تمت إضافة الطعام بنجاح
+success_prd_edit,تم تحديث الغذاء بنجاح
+success_upload,تم تحديث الصورة بنجاح
+delete_prd_label,حذف الطعام؟
+prd_yes_all_message,عند حذف هذا الطعام ، سيتم حذف جميع الفئات الفرعية والفئات ذات الصلة أيضًا. لذا ، هل ما زلت تريد حذفه؟
+success_prd_delete,تم حذف الطعام بنجاح
+prd_search,بحث عن الطعام
+btn_save_prd_att,حفظ & الذهاب إلى الغذاء حسب الطلب
+btn_att_list,قائمة مخصصة
+btn_save_gallery,حفظ والعودة إلى المعرض
+unit_price,سعر الوحده
+search_tag,بحث دلالية / كلمة
+f_item_subcat_required,الرجاء اختيار اسم التصنيف الفرعي
+f_item_discount_required,يرجى تحديد اسم الفئة
+err_Prd_name,يرجى تقديم اسم الطعام
+err_Prd_len,يجب أن يكون طول اسم الطعام أكبر من 4
+err_Prd_exist,اسم الطعام موجود بالفعل في النظام
+is_discount,هو الخصم؟
+is_featured,هي واردة؟
+is_available,متاح؟
+order_by,ترتيب حسب
+select_order,اختر طلبا
+from_price,من الأسعار
+to_price,إلى السعر
+shipping_cost,تكلفة الشحن
+minimum_order,الحد الأدنى للطلب
+original_price,السعر الأصلي
+err_access,عذرا، لا يوجد لديك الوصول إلى اتخاذ هذا الإجراء
+err_model,حدث خطأ في قاعدة البيانات
+err_sys,حدث خطأ في النظام
+btn_edit,تعديل
+btn_update,تحديث
+btn_delete,حذف
+btn_publish,ينشر
+no,لا
+btn_save,حفظ
+btn_cancel,إلغاء
+btn_replace_photo,استبدال صور
+Remove,إزالة
+success_img_delete,تم حذف الصورة بنجاح
+trans_date_label,تاريخ
+success_user_add,تمت إضافة نظام العضو بنجاح
+success_user_edit,تم تحديث نظام العضو بنجاح
+need_to_verify,الحاجة البريد الإلكتروني الخاص بك للتحقق مع رمز التحقق. يرجى إلقاء نظرة البريد الإلكتروني المسجل.
+count_detail,التهم من التفاصيل
+add_att_detail,إضافة تفاصيل مخصصة
+detail_label,التفاصيل
+att_edit,تحرير مخصص
+success_att_add,تمت إضافة التخصيص بنجاح
+success_att_edit,تم تحديث التخصيص بنجاح
+delete_att_label,حذف مخصص؟
+att_yes_all_message,عند حذف هذا الرأس المخصص ، سيتم حذف جميع التفاصيل المخصصة ذات الصلة أيضًا. لذا ، هل ما زلت تريد حذفه؟
+success_att_delete,تم حذف التخصيص بنجاح
+att_delete_confirm_message,هل تريد حذف جميع العناصر الموجودة تحت هذا الطعام معًا؟
+att_search,بحث مخصص
+att_detail_search,بحث التفاصيل المخصصة
+att_price,سعر مخصص
+list_attribute_detail,قائمة التفاصيل المخصصة
+selected_product_name,اسم الطعام المختار
+selected_attribute_header,اسم رأس مخصص محدد
+att_detail_name,اسم التفاصيل المخصصة
+attribute_detail_extra_price,(إذا كان لديك مخصصة تهمة اضافية أسعار، يرجى تقديم سعر إضافي فقط وسوف تضيف إلى سعر الغذاء كما automatically.It لا تجاوز سعر البند فقط إضافة كثمن إضافي على سبيل المثال،... price_total = Food_price + customized_additional_pirce)
+success_attdetail_edit,تم تحديث التفاصيل المخصصة بنجاح
+success_attdetail_add,تمت إضافة التفاصيل المخصصة بنجاح
+attdetail_edit,تحديث معلومات التفاصيل المخصصة
+success_attdetail_delete,تم حذف التفاصيل المخصصة بنجاح
+att_no_only_message,مخصص فقط - سيتم حذف التفاصيل المخصصة فقط من النظام.
+delete_attdetail_label,حذف التفاصيل المخصصة؟
+err_att_name,يرجى تقديم اسم مخصص
+err_att_len,يجب أن يكون طول الاسم المخصص أكبر من 4
+err_att_exist,الاسم المخصص موجود بالفعل في النظام
+att_detail_info,معلومات تفصيلية مخصصة
+err_detail_name,يرجى تقديم اسم التفاصيل المخصصة
+err_detail_len,يجب أن يكون طول اسم التفاصيل المخصص أكبر من 4
+err_detail_exist,اسم التفاصيل المخصص موجود بالفعل في النظام
+collect_search,بحث
+collect_photo,مجموعة صور
+collect_name,اسم جمع
+collect_status,حالة جمع
+collect_info,جمع المعلومات
+collect_ordering,جمع ترتيب
+collect_img,مجموعة صور
+collect_search,بحث مجموعة
+collect_add,إضافة مجموعة
+collect_edit,تحرير مجموعة
+success_collect_edit,تم تحديث جمع بنجاح
+success_collect_add,تمت إضافة مجموعة بنجاح
+success_collect_delete,قد تم حذفه جمع بنجاح
+err_collect_name,يرجى تقديم اسم مجموعة
+err_collect_len,يجب أن يكون طول اسم مجموعة أكبر من 4
+err_collect_exist,وجدت اسم جمع بالفعل في النظام
+delete_collect_label,حذف مجموعة؟
+collect_delete_confirm_message,هل أنت متأكد تريد حذف هذه المجموعة؟
+collect_yes_all_message,نعم جميع - جمع وحدات وحذف من النظام.
+collect_no_only_message,فقط مجموعة - مجموعة فقط سيتم حذف من النظام.
+collect_yes_all_label,نعم جميعا
+collect_no_only_label,فقط مجموعة
+please_select_product,الرجاء اختيار الطعام
+api_info,إعداد المعهد
+api_order_by,ترتيب حسب
+api_count,عدد API
+success_api_edit,تم تحديث إعداد المعهد بنجاح
+comm_user,المستخدمين
+comm_desc,تعليق الوصف
+comm_date,تاريخ
+write_reply,اكتب رد تعليق
+btn_reply,الرد
+reply_cmt,تعليق رد
+comm_search,بحث
+comment_header,تعليقات
+date,تاريخ
+reply,الرد
+like_product_name,اسم الغذاء
+like_user_name,اسم المستخدم
+fav_product_name,اسم الغذاء
+fav_user_name,اسم المستخدم
+trans_total_amount,المبلغ الإجمالي
+trans_discount_amount,مقدار الخصم
+trans_balance_amount,مقدار وسطي
+trans_billing_address,عنوان وصول الفواتير
+trans_delivery_address,عنوان التسليم
+btn_update,تحديث
+trans_search,البحث المعاملات
+btn_update,تحديث
+Prd_qty,الكمية
+Prd_dis,خصم(٪)
+Prd_amt,كمية
+Prd_dis_price,سعر الخصم
+trans_status,المعاملات الحالة:
+success_trans_edit,تم تحديث المعاملات الحالة بنجاح
+Prd_name,اسم المنتج
+Prd_price,سعر المنتج
+popular_cat_name,شعبية اسم التصنيف
+popular_cat_img,شعبية الفئة صور
+view,رأي
+popular_cat_search,بحث الشعبية الفئة
+popular_cat_view,الأكثر شعبية الفئة
+popular_cat_info,شعبية معلومات الفئة
+popular_cat_icon,شعبية الفئة أيقونة
+popular_prd_name,اسم الغذاء الشعبي
+popular_prd_code,كود الغذاء الشعبي
+popular_prd_price,سعر الغذاء الشعبي
+popular_prd_search,بحث عن طعام شعبي
+popular_prd_view,الطعام الأكثر شعبية
+popular_prd_info,معلومات غذائية شعبية
+popular_subcat_name,شعبية الفرعية اسم التصنيف
+popular_prd_desc,وصف الطعام الشعبي
+popular_prd_keyword,الكلمات الشعبية للأغذية
+popular_prd_highlight,تسليط الضوء على المواد الغذائية الشعبية
+purchased_cat_name,اشتريت اسم التصنيف
+purchased_cat_img,اشترى الفئة صور
+purchased_cat_view,معظم الفئة شراؤها
+purchased_cat_info,اشترت معلومات الفئة
+purchased_cat_icon,اشترى الفئة أيقونة
+purchased_cat_search,بحث شراؤها الفئة
+purchased_prd_name,اسم الطعام الذي تم شراؤه
+purchased_prd_code,كود الغذاء المشتراة
+purchased_prd_price,أسعار المواد الغذائية المشتراة
+purchased_prd_view,معظم المواد الغذائية المشتراة
+purchased_prd_search,بحث عن المواد الغذائية المشتراة
+purchased_subcat_name,اشترى الفرعية اسم التصنيف
+purchased_prd_desc,وصف الأغذية المشتراة
+purchased_prd_keyword,الكلمات الرئيسية للأغذية المشتراة
+purchased_prd_info,المعلومات الغذائية المشتراة
+purchased_prd_highlight,تسليط الضوء على المواد الغذائية المشتراة
+total_revenue,المعاملات الشهرية
+performance_label,الإحصاء
+comment_label,تعليق
+prd_label,عد الأطعمة
+cat_label,عد الفئات
+subcat_label,عدد الفئة الفرعية
+dis_label,خصم
+collect_label,مجموعة
+view_all_label,عرض جميع
+transaction_table,الجدول عملية
+name_label,اسم
+description_label,وصف
+phone_label,الهاتف 1 (افتراضي)
+contact_email_label,تواصل بالبريد الاكتروني
+shop_cover_photo_label,متجر صورة الغلاف تحميل
+shop_image_recommended_size,(مستحسن الحجم: 600 × 400)
+find_location_label,اكتب والبحث عن موقع من API جوجل
+shop_lat_label,خط العرض
+shop_lng_label,خط الطول
+success_shop_add,تمت إضافة متجر بنجاح
+success_shop_edit,تم تحديث متجر بنجاح
+delete_shop_label,حذف شوب؟
+shop_info,معلومات المحل
+delete_shop_confirm_message,هل أنت متأكد أنك تريد حذف المحل لأنه سيتم حذف من؟
+phone_label2,الهاتف 2
+phone_label3,هاتف 3
+address_label1,العنوان 1
+address_label2,العنوان 2
+address_label3,العنوان 3
+shop_icon_photo_label,متجر أيقونة صور تحميل
+shop_image_recommended_size_icon,(مستحسن الحجم: 256 × 256)
+about_mess_label,رسول
+about_chart_section,معلومات الدردشة
+stripe_label,[الخيار 1]: الدفع مع الشريط
+stripe_publishable_key,للنشر مفتاح
+stripe_secret_key,سر مفتاح
+stripe_enable_label,تمكين الشريط الدفع؟
+stripe_enable_label,تمكين الشريط الدفع؟
+paypal_label,[الخيار 2]: الدفع مع باي بال ممكن
+paypal_env_label,باي بال البيئة
+paypal_merchant_label,باي بال ID تاجر
+paypal_pub_label,باي بال المفتاح العمومي
+paypal_pri_label,باي بال مفتاح خاص
+paypal_enabled_label,وباي بال ممكن؟
+bank_transfer_label,[الخيار 3]: الدفع عن طريق التحويل المصرفي
+bank_account_label,حساب البنك
+bank_name_label,اسم البنك
+bank_code_label,رمز بنكي
+branch_code_label,رمز الفرع
+swift_code_label,رمز السرعة
+bank_enable_label,هل ممكن تحويل مصرفي؟
+cod_label,[الخيار 4]: الدفع مع امكانية الدفع عند التوصيل
+cod_email_label,البريد الإلكتروني لتأكيد COD
+cod_enable_label,تمكين نقدا عند التسليم؟
+currency_symbol_label,رمز العملة (على سبيل المثال؛ $)
+currency_form_label,العملة نموذج قصيرة (على سبيل المثال، USD)
+sender_email_label,حساب مرسل البريد الإلكتروني (للSMTP)
+btn_add_new,إضافة مستخدمين جدد
+user_name,اسم المستخدم
+user_edit,تحرير العضو
+user_info,معلومات المستخدم
+user_add,إضافة مستخدمين
+role_label,دور المستخدم
+conf_password,تأكيد كلمة المرور
+select_shop_label,إذا كان المستخدم هو 'تسوق المسؤول'، يرجى تحديد 'تسوق' لتعيين
+contact_name,اسم الاتصال
+contact_email,تواصل بالبريد الاكتروني
+success_contacts_delete,تم حذف الاتصال بنجاح
+delete_contact_label,حذف اتصالات؟
+contact_delete_confirm_message,هل أنت متأكد من حذف هذه اتصالات؟
+contact_info_label,معلومات الاتصال التفاصيل
+contact_phone,شخص الاتصال الهاتف
+about_contact_label,معلومات الاتصال رسالة
+lbl_view,رأي
+back_button,عودة
+contact_receive_message,لقد تلقيت اتصال لنا رسالة جديدة.
+rating_product_name,اسم المنتج
+rating_user_name,اسم المستخدم
+rating_value,قيمة التصنيف
+rating_title,عنوان
+pending_count,طلب معلق
+delivery_count,أمر التسليم
+completed_count,الطلب جاهز
+order_count,من أجل الكاملة
+shipping_method_label,حدد الافتراضي أسلوب الشحن
+shipping_method,افتراضي طريقة شحن
+shop_tags,متجر الكلمات
+overall_tax_label,عموما الضرائب (٪)
+shipping_tax_label,الشحن الضريبة (٪)
+whapsapp_no_label,عدد واتس اب
+refund_policy_label,سياسة الاسترجاع
+privacy_policy_label,سياسة خاصة
+privacypolicy,البنود و الظروف
+app_info_lable,معلومات عن
+about_title_label,معلومات عن عنوان
+description_label,وشك الوصف
+about_email_label,معلومات البريد الإلكتروني
+about_phone_label,عن الهاتف
+about_website_label,عن رابط لموقع إلكتروني
+about_seo_section,معلومات SEO
+about_seo_title_label,SEO عنوان
+about_seo_desc_label,SEO الوصف
+about_seo_keywords_label,SEO كلمات
+about_social_section,معلومات الاجتماعي
+about_facebook_label,موقع التواصل الاجتماعي الفيسبوك
+about_gplus_label,في + Google
+about_instagram_label,إينستاجرام
+about_youtube_label,موقع يوتيوب
+about_pinterest_label,موقع Pinterest
+about_twitter_label,تويتر
+about_color_section,حول الموقع موضوع اللون
+about_theme,الموضوعات المتاحة
+success_about_edit,معلومات يتم تحديثها بنجاح
+about_ads_analyt,جوجل التحليلية و إعلانات إعداد
+about_ads_client,العميل الإعلانات
+about_ads_slot,إعلانات فتحة
+about_analyt_track_id,تحليلي المسار رقم
+about_ads_on,تمكين جوجل ادسنس
+about_analyt_on,تمكين جوجل تحليلية
+about_img,حول صورة الغلاف
+about_nav_icon,الإنتقال أيقونة
+about_fav_icon,الصوت العربي الحر أيقونة
+about_backend_icon,لالخلفية
+total_label,مجموع :
+device_label,جهاز
+devices_label,الأجهزة
+registered_label,وقد تم تسجيل لإعلام دفع
+noti_info,إعلام دفع
+noti_message_label,رسالة
+noti_message_tooltips,يرجى تقديم بإرسال رسالة للإعلام الدفع.
+noti_send_btn,إرسال إشعار دفع
+sorry_no_device,عذرا، لا يوجد جهاز مسجل للإعلام دفع.
+select_cat,اختر الفئة
+success_noti_add,تمت إضافة إخطارا بنجاح
+success_noti_delete,لقد تم حذف إخطارا بنجاح
+delete_noti_label,إعلام الحذف؟
+noti_yes_message,سوف إعلام نعم-حذف من النظام.
+push_message,رسالة دفع
+noti_des_label,وصف
+noti_img,إخطار صور
+coupon_code_message,يجب أن تكون القسيمة رمز على الأقل 4. على سبيل المثال. ACE1
+coupon_amount_message,يجب أن يكون مبلغ خصم القسيمة 10 ، 20 ، 30 .. ليست النسبة المئوية.
+coupon_add,أضف عرض
+coupon_info,معلومات القسيمة
+coupon_name,اسم القسيمة
+coupon_code,رمز الكوبون
+coupon_amount,قسيمة المبلغ
+coupon_edit,تحرير القسيمة
+coupon_search,البحث القسيمة
+success_coupon_add,تمت إضافة قسيمة بنجاح
+success_coupon_edit,تم تحديث القسيمة بنجاح
+success_coupon_delete,لقد تم حذف قسيمة بنجاح
+delete_coupon_label,القسيمة الحذف؟
+coupon_delete_confirm_message,هل أنت متأكد من حذف هذه القسيمة؟
+err_coupon_name,يرجى تقديم اسم القسيمة
+err_coupon_len,يجب أن يكون طول القسيمة اسم أكبر من 4
+err_coupon_exist,وتوجد بالفعل اسم قسيمة في النظام
+shipping_name,اسم الشحنة
+shipping_price,السعر
+shipping_days,أيام
+shipping_add,إضافة أسلوب الشحن
+shipping_edit,تحرير أسلوب الشحن
+shipping_search,بحث طريقة شحن
+shipping_info,معلومات الشحن الطريقة
+success_shipping_add,تمت إضافة أسلوب الشحن بنجاح
+success_shipping_edit,تم تحديث طريقة الشحن بنجاح
+success_shipping_delete,تم حذف طريقة الشحن بنجاح
+err_shipping_name,يرجى تقديم الشحن اسم الأسلوب
+err_shipping_len,يجب أن يكون طول شحن اسم الأسلوب أكبر من 4
+err_shipping_exist,وكانت قائمة الشحن اسم الأسلوب بالفعل في النظام
+delete_shipping_label,حذف طريقة شحن؟
+shipping_delete_confirm_message,هل أنت متأكد من حذف هذه الطريقة الشحن؟
+tag_name,اسم العلامة
+tag_img,اشر للصورة
+tag_add,إضافة علامة
+tag_search,بحث دلالية
+tag_info,معلومات العلامة
+tag_icon,العلامة أيقونة
+err_tag_name,يرجى تقديم اسم العلامة
+err_tag_len,يجب أن يكون طول الدلالية اسم أكبر من 4
+err_tag_exist,وتوجد بالفعل اسم العلامة في النظام
+success_tag_add,تم إضافة علامة بنجاح
+success_tag_edit,تم تحديث الكود بنجاح
+success_tag_delete,لقد تم حذف العلامة بنجاح
+delete_tag_label,علامة الحذف؟
+tag_delete_confirm_message,هل أنت متأكد من حذف هذه العلامة؟
+btn_version,الإصدار
+ver_info,معلومات الإصدار
+ver_no_label,نسخة لا
+ver_msg_label,نسخة رسالة
+ver_title_label,صفحة عنوان
+ver_force_update,تحديث قوة اصدار جديد؟
+ver_need_data,نسخة حاجة واضحة البيانات؟
+success_version_add,تمت إضافة نسخة بنجاح
+success_version_edit,تم تحديث النسخة بنجاح
+paypal_transaction_failed,عذرا، لم بال عملية.
+stripe_transaction_failed,عذرا، لم الشريط عملية.
+err_user_not_exist,عذرًا ، بيانات اعتماد تسجيل الدخول خاطئة
+no_record,لا مزيد من سجل
+delete_register_user_label,حذف عضو مسجل؟
+register_user_delete_confirm_message,هل أنت متأكد من حذف هذا عضو مسجل؟
+success_registered_user_delete,لقد تم حذف العضو المسجل بنجاح
+success_user_delete,لقد تم حذف المستخدم بنجاح
+user_ban,بان العضو
+user_ban_label,المنع
+user_unban,رفع الحظر
+err_user_banned,عذرا، لا يمكنك الدخول لأنه يتم حظر حسابك.
+no_record,لا مزيد من السجلات
+invalid_api_key,API مفتاح غير صالح
+apikey_info,المعهد معلومات مفتاح
+key_label,مفتاح
+success_apikey_edit,يتم تحديث المعهد مفتاح بنجاح
+success_apikey_add,وأضاف المعهد مفتاح بنجاح
+err_user_email_exist,العضو البريد الإلكتروني هو موجود بالفعل
+trans_payment_method,طريقة الدفع او السداد :
+trans_memo,مذكرة :
+trans_item_sub_total,البند الفرعي المجموع:
+trans_coupon_discount_amount,كوبون خصم المبلغ (-):
+trans_overall_tax,عموما الضرائب
+trans_shipping_cost,تكلفة الشحن (عن طريق
+trans_shipping_tax,الشحن الضرائب
+trans_total_balance_amount,إجمالي الرصيد المبلغ:
+order_desc,اطلب من PS-Store:
+err_email_not_send_to_shop,عذرا، البريد الالكتروني غير قادرة على إرسال صاحب المحل.
+err_email_not_send_to_user,عذرا، البريد الالكتروني غير قادرة على إرسال العميل.
+order_receive_subject,وقد وردت النظام الجديد
+order_status_subject,تم تغيير حالة الطلب ل
+country_name,اسم الدولة
+country_add,اضافة البلد
+country_search,بحث البلد
+country_edit,تحرير البلد
+country_info,معلومات عن البلد
+success_country_add,تمت إضافة البلاد بنجاح
+success_country_edit,تم تحديث البلاد بنجاح
+success_country_delete,لقد تم حذف البلاد بنجاح
+delete_country_label,حذف البلد؟
+country_yes_all_message,عندما حذف هذا البلد، أنه سيتم حذف جميع المدن ذات الصلة والمناطق أيضا. لذا، هل لا تزال ترغب في حذفه؟
+err_country_name,يرجى تقديم اسم البلد
+err_country_len,يجب أن يكون طول اسم البلد أكبر من 4
+err_country_exist,وجدت اسم البلد بالفعل في النظام
+city_name,اسم المدينة
+city_add,إضافة سيتي
+select_country,تحديد اسم البلد
+city_search,بحث المدينة
+city_edit,تحرير مدينة
+city_info,معلومات عن المدينة
+success_city_add,تمت إضافة مدينة بنجاح
+success_city_edit,تم تحديث المدينة بنجاح
+success_city_delete,تم حذف المدينة بنجاح
+delete_city_label,حذف سيتي؟
+city_delete_confirm_message,هل أنت متأكد من حذف هذه المدينة؟
+err_city_name,يرجى تقديم اسم المدينة
+err_city_len,يجب أن يكون طول سيتي اسم أكبر من 4
+err_city_exist,وجدت المدينة اسم بالفعل في النظام
+f_item_country_required,يرجى تحديد اسم البلد
+zone_name,اسم المنطقة
+zone_search,بحث المنطقة
+zone_add,إضافة منطقة
+zone_edit,تحرير المنطقة
+zone_info,معلومات المنطقة
+select_city,اختر المدينة اسم (متعددة حدد)
+success_zone_add,تمت إضافة منطقة بنجاح
+success_zone_edit,تم تحديث المنطقة بنجاح
+success_zone_delete,تم حذف المنطقة بنجاح
+delete_zone_label,حذف المنطقة؟
+zone_delete_confirm_message,هل أنت متأكد من حذف هذه المنطقة؟
+err_zone_name,يرجى تقديم اسم المنطقة
+err_zone_len,يجب أن يكون طول اسم المنطقة أكبر من 4
+err_zone_exist,وجدت اسم المنطقة بالفعل في النظام
+f_item_city_required,الرجاء اختر المدينة اسم
+select_zone,تحديد المناطق
+shipping_zone_add,إضافة شحن مع المنطقة
+shipping_zone_edit,تحرير شحن المنطقة مع
+shipping_zone_search,ماذا عن الشحن والمنطقة
+shipping_zone_info,الشحن مع معلومات المنطقة
+success_shipping_zone_add,تمت إضافة الشحن مع المنطقة بنجاح
+success_shipping_zone_edit,تم تحديث الشحن مع المنطقة بنجاح
+success_shipping_zone_delete,تم حذف الشحن مع المنطقة بنجاح
+delete_shipping_zone_label,حذف شحن والمنطقة؟
+shipping_zone_delete_confirm_message,هل أنت متأكد من حذف هذا مع منطقة الشحن؟
+f_item_zone_required,يرجى تحديد اسم المنطقة
+shipping_package_name,الشحن اسم حزمة
+need_to_enable_zone_shipping,يرجى تمكين الشحن منطقة في إعداد الشحن.
+dup_zone_name,وجدت اسم المنطقة بالفعل
+you_selected,لقد قمت باختيار
+per_order_based,في الترتيب على
+cost,كلفة
+per_item_based,لكل عنصر قائم
+delivery_increment_of_zone,تسليم الاضافة من المنطقة
+based_cost,التكلفة على أساس
+take_prd_shipping_cost,خذ من تكلفة المنتج شحن
+free_shipping,الشحن مجانا
+zone_from_other_package,يتم تحديد المنطقة بالفعل من حزمة أخرى.
+الصيغة: (تكلفة شحن المنتج) × (قيمة الزيادة) × (الكمية),الصيغة: (تكلفة شحن المنتج) × (قيمة الزيادة) × (الكمية)
+increment_note,ملاحظة: تحتاج إلى مجموعة الافتراضية هي 1.
+cat_module,التصنيفات
+contact_module,الاتصال بنا رسالة
+system_user_module,المستخدمين النظام
+export_database_module,تصدير قاعدة البيانات
+subcat_module,الفئات الفرعية
+discount_module,خصومات
+blog_module,المدونات
+product_module,طعام
+collection_module,مجموعات
+noti_module,لا غير
+version_module,الإصدار
+comments_module,تعليقات
+like_module,الإعجابات
+favourites_module,المفضلة
+transaction_module,المعاملات
+popular_prd_module,معظم المنتجات الشعبية
+purchase_prd_module,الأكثر شراء المنتجات
+popular_cat_module,معظم الفئات الشعبية
+purchase_cat_module,معظم شراء الفئات
+rate_prd_module,الأكثر تقييما المنتجات
+coupon_dis_module,خصومات كوبون
+shipping_module,طريقة الشحن
+app_module,حول التطبيقات
+shop_module,معلومات عن متجر
+register_user_module,المستخدمون المسجلون
+api_key_module,المعهد مفاتيح
+countries_module,بلدان
+cities_module,مدن
+zone_module,منطقة
+shipping_zone_module,الشحن مع المناطق
+language_module,اللغات
+entry_group,دخول
+user_feedback_group,تعليقات المستخدمين
+user_mang_group,إدارة المستخدمين
+reports_group,تقارير
+miscellaneous_group,متنوع
+setting_group,ضبط
+second_ago,ثانيا
+minute_ago,دقيقة
+hour_ago,ساعة
+day_ago,يوم
+week_ago,أسبوع
+month_ago,شهر
+year_ago,عام
+decade_ago,عقد
+just_now_label,في هذة اللحظة
+ago_label,منذ
+btn_active,نشيط
+lang_string,سلسلة اللغة
+lang_name,اسم اللغة
+lang_add,إضافة لغة
+lang_info,اللغة المعلومات
+lang_symbol,رمز
+lang_search,لغة البحث
+lang_edit,تحرير اللغة
+success_lang_edit,تم تحديث اللغة بنجاح
+success_lang_add,تم إضافة اللغة بنجاح
+success_lang_delete,تم حذف اللغة بنجاح
+err_lang_name,يرجى تقديم اسم اللغة
+err_lang_len,يجب أن يكون طول اسم اللغة أكبر من 4
+err_lang_exist,وجدت اسم اللغة بالفعل في النظام
+delete_lang_label,حذف اللغة؟
+lang_delete_confirm_message,هل تريد حذف جميع سلسلة بموجب ذلك جنبا إلى جنب اللغة؟
+lang_yes_all_label,نعم جميعا
+lang_no_only_label,فقط اللغة
+lang_yes_all_message,نعم جميع - اللغة وحدات وحذف من النظام.
+language_id,لغة
+lang_string_key,مفتاح
+lang_string_value,القيمة
+lang_string_info,معلومات سلسلة اللغة
+select_language,اللغة المختارة
+btn_import,استيراد
+csv_symbol_link,نموذج ملف CSV هنا
+lang_str_search,بحث سلسلة اللغة
+success_langstr_import,سلسلة اللغة بنجاح تحميل ملف CSV
+lang_str_add,إضافة سلسلة اللغة
+lang_str_edit,تحرير سلسلة اللغة
+lang_deactive,إبطال
+success_lang_str_edit,تم تحديث سلسلة اللغة بنجاح
+success_lang_str_add,تمت إضافة سلسلة اللغة بنجاح
+err_lang_str_name,يرجى تقديم لغة اسم سلسلة
+err_lang_str_len,يجب أن يكون طول سلسلة لغة أكبر من 4
+err_lang_str_exist,وجدت سلسلة اللغة بالفعل في النظام
+lang_title,اللغة محذوفة؟
+lang_warning,لا يمكنك حذف اللغة النشطة.
+btn_ok,حسنا
+list_lang_label,اللغات
+list_lang_str_label,لغة سلاسل
+err_lang_symbol,يرجى تقديم رمز اللغة
+pls_att_name,يرجى اسم السمة التفاصيل
+remove_label,إزالة
+btn_no,لا
+pls_city_name,إرضاء مدينة اسم
+pls_collect_name,إرضاء اسم مجموعة
+pls_dis_percent,الرجاء الخصم في المئة
+pls_prd_name,يرجى اسم المنتج
+pls_highlight_info,يرجى تسليط الضوء على معلومات
+pls_code,الرجاء إدخال الرمز
+pls_unit_price,يرجى سعر الوحدة
+pls_shipping_cost,يرجى كلف الشحن
+pls_minimum_order,يرجى الحد الأدنى للطلب
+pls_prd_measurement,يرجى قياس المنتج
+pls_prd_unit,يرجى حدة المنتج
+pls_search_tag,يرجى بحث دلالية
+pls_prd_desc,يرجى وصف المنتج
+pls_shipping_name,الرجاء شحن اسم حزمة
+per_order_post,في النظام التكلفة
+pls_sub_cat,يرجى اسم الفئة الفرعية
+pls_zone_name,إرضاء اسم المنطقة
+success_reset_email_sent,يتم إرسال البريد الإلكتروني بنجاح إعادة تعيين
+err_touch_count,عدد مشكلة في اللمس!
+coupon_not_found,رمز القسيمة غير صالح.
+require_user_id,مطلوب هوية المستخدم
+require_platform,منصة المطلوبة
+file_na,غير متوفر
+token_already_exist,عذرا، جهاز التوثيق بالفعل موجودة.
+err_noti_register,عذرا، هناك مشكلة للتسجيل اضغط الإعلام.
+success_noti_register,الجهاز بنجاح تسجيل للإعلام دفع.
+success_noti_unregister,الجهاز غير مسجلة بنجاح لإعلام دفع.
+err_noti_unregister,عذرا، هناك مشكلة لإلغاء التسجيل دفع الإخطار.
+err_in_noti_read,عذرا، إعلام غير قادر على القراءة.
+success_touch_count,تم إدخال عدد اللمس بنجاح.
+backend_setting_module,إعداد الخلفية
+backend_config_info_lable,الخلفية معلومات إعداد
+sender_name_label,اسم المرسل
+receive_email_label,استلام بريد الكتروني
+sender_email_label,البريد الإلكتروني المرسل
+img_section,القسم صورة
+fcm_api_key_label,مفتاح API FCM
+backend_login_img,الخلفية الدخول صورة الخلفية
+backend_logo,الخلفية شعار
+backend_fav_icon,الخلفية الصوت العربي الحر منظمة البن الدولية
+upload_backend_logo,تحميل الخلفية شعار
+upload_fav_icon,تحميل الصوت العربي الحر أيقونة
+upload_login_img,إضافة أغاني دخول صور
+pwd_reset_label,إعادة تعيين كلمة المرور
+pwd_reset_link,الرجاء الضغط على الرابط التالي لإعادة تعيين كلمة المرور الخاصة بك
+reset_link_label,إعادة تعيين كلمة المرور
+best_regards_label,تحياتي الحارة
+hi_admin_label,مرحبا الادارية
+name_label,اسم
+email_label,البريد الإلكتروني
+phone_label,هاتف
+msg_label,رسالة
+bank_acc_label,حساب البنك :
+bank_name_label,اسم البنك :
+bank_code_label,رمز بنكي :
+branch_code_label,رمز الفرع
+swift_code_label,رمز السرعة
+pay_met_cod,طريقة الدفع: نقدا عند التسليم
+pay_met_paypal,طريقة الدفع: باي بال
+pay_met_stripe,طريقة الدفع: الشريط
+pay_met_bank,طريقة الدفع: التحويل المصرفي و<BR>
+price_label,السعر :
+unit_label,وحدة
+shipping_cost_label,تكلفة الشحن
+qty_label,الكمية
+hi_label,مرحبا
+order_receive_info,تلقي طلب جديد مع التالية من المعلومات.
+trans_code,عبر. الشفرة
+trans_status_label,عبر. الحالة
+billing_cus_name,الفواتير اسم العميل
+billing_add1,عنوان الفوترة 1
+billing_add2,عنوان الفواتير 2
+billing_phone,فوتير الهاتف
+billing_email,البريد الالكتروني لقوائم الدفع
+billing_shipping_name,الفواتير اسم شحن
+shipping_add1,عنوان الشحن 1
+shipping_add2,عنوان الشحن 2
+shipping_phone,الشحن الهاتف
+shipping_email,الشحن البريد الإلكتروني
+memo_label,مذكرة
+zone_shipping,منطقة الشحن
+prd_detail_info,تفاصيل المنتج المعلومات في أدناه
+sub_total,المجموع الفرعي
+coupon_dis_amount,كوبون خصم المبلغ (-)
+overall_tax,عموما الضرائب (+)
+shipping_cost,تكلفة الشحن (+)
+shipping_tax,الشحن الضرائب (+)
+total_bal_amt,إجمالي الرصيد المبلغ
+no_country_available,عذرا، الدول الشحن غير متوفرة.
+user_register_success_but_email_not_send,تسجيل المستخدم النجاح ولكن لا ترسل البريد الإلكتروني.
+new_user_register,جديد التسجيل في حساب المستخدم
+verify_code_sent,تم إرسال رمز التحقق
+write_reply_label,اكتب رد ...
+success_backend_edit,تم تحديث إعداد الخلفية بنجاح
+topics_label,المواضيع
+smtp_section,تكوين SMTP
+smtp_host_label,المضيف SMTP
+smtp_host_placeholder,على سبيل المثال: SSL: //smtp.hostmail.com
+smtp_port_label,رقم منفذ SMTP
+smtp_enable,SMTP تمكين؟
+smtp_user_label,SMTP العضو
+smtp_pass_label,SMTP كلمة المرور
+lang_active,نشيط
+dashboard_label,لوحة القيادة
+cannot_deactive,عذرًا ، لا يمكن إلغاء التنشيط.
+err_symbol_exist,مز اللغة موجود بالفعل في النظام
+new_user_acc,تم إنشاء حساب المستخدم الجديد الخاص بك. مرحبا بك في Flutter Restaurant..يرجى التحقق من الرمز الموجود أدناه لتنشيط حسابك.
+verify_code_label,كود التحقق
+restaurant_branch_module,فروع المطعم
+shop_rates_module,المطعم الأكثر تقييما
+reservation_module,التحفظات
+trans_status_module,حالة عملية
+deli_status_module,حالة التوصيل
+payment_status_module,حالة السداد
+deliboys_module,إدارة توصيل الصبي
+add_on_module,اضافه
+shipping_areas_module,منطقة الشحن
+app_configs_module,إعداد التطبيق
+food_add_img,أضف على الصورة
+food_add_name,أضف على الاسم
+food_add_description,وصف
+food_add_price,السعر
+food_additional_info,إضافة معلومات
+err_food_add_name,يرجى تقديم إضافة على الاسم.
+err_food_add_len,يجب أن يكون طول اسم الإضافة أكبر من 4
+err_food_add_exist,إضافة على الاسم موجود بالفعل
+food_additional_add,أضف إضافة
+additional_search,بحث إضافة
+additional_edit,تحرير إضافة على
+success_additional_edit,تم تحديث الإضافة بنجاح.
+success_additional_add,تمت إضافة الإضافة بنجاح.
+success_additional_delete,تم حذف الإضافة بنجاح.
+branch_name,اسم
+branch_description_label,وصف
+branch_address_label,عنوان
+branch_phone_label,هاتف
+branch_info,معلومات فرع المطعم
+branch_img,صور فرع المطعم
+err_branch_name,من فضلك اسم فرع المطعم
+err_branch_len,يجب أن يكون طول اسم فرع المطعم أكبر من 4
+err_branch_exist,فرع المطعم موجود بالفعل
+err_branch_description,يُرجى تقديم وصف للمطعم
+err_branch_address,يرجى تقديم عنوان فرع المطعم
+err_branch_phone,يرجى تقديم هاتف فرع المطعم.
+branch_add,إضافة فرع مطعم
+branch_search,البحث عن فرع المطعم
+success_branch_edit,تم تحديث فرع المطعم بنجاح.
+success_branch_add,تم بنجاح فرع المطعم
+success_branch_delete,تم حذف فرع المطعم.
+deli_status_title,عنوان
+deli_status_add,إضافة حالة التسليم
+err_deli_status_name,يرجى تقديم عنوان حالة التسليم
+err_deli_status_len,يجب أن يكون طول عنوان حالة التسليم أكبر من 4
+err_deli_status_exist,حالة التسليم موجودة بالفعل
+deli_status_search,حالة تسليم البحث
+deli_status_edit,تعديل حالة التسليم
+success_deli_status_edit,تم تعديل حالة التسليم بنجاح.
+success_deli_status_add,تمت إضافة حالة التسليم بنجاح.
+success_deli_status_delete,تم حذف حالة التسليم بنجاح.
+deli_status_yes_all_message,هل أنت متأكد من حذف حالة التسليم هذه؟
+delete_deli_status_label,هل تريد حذف حالة التسليم؟
+pay_status_info,معلومات حالة الدفع
+err_pay_status_name,يرجى تقديم عنوان حالة الدفع
+err_pay_status_len,يجب أن يكون طول حالة الدفع أكبر من 4
+err_pay_status_exist,حالة الدفع موجودة بالفعل.
+pay_status_add,أضف حالة الدفع
+pay_status_search,ابحث عن حالة الدفع
+pay_status_edit,تحرير حالة الدفع
+success_pay_status_edit,تم تعديل حالة الدفع بنجاح
+success_pay_status_add,تمت إضافة حالة الدفع بنجاح
+success_pay_status_delete,تم حذف حالة الدفع بنجاح.
+delete_pay_status_label,حذف حالة الدفع؟
+pay_status_yes_all_message,هل أنت متأكد من حذف حالة الدفع هذه؟
+trans_status_info,معلومات حالة المعاملة
+err_trans_status_name,يرجى تقديم عنوان حالة المعاملة
+err_trans_status_len,يجب أن يكون طول حالة المعاملة أكبر من 4
+err_trans_status_exist,حالة المعاملة موجودة بالفعل
+trans_status_search,حالة معاملة البحث
+trans_status_add,إضافة حالة المعاملة
+delete_trans_status_label,حذف حالة المعاملة؟
+trans_status_edit,تحرير حالة المعاملة
+success_trans_status_edit,تم تعديل حالة المعاملة بنجاح.
+success_trans_status_add,تمت إضافة المعاملة بنجاح.
+success_trans_status_delete,تم حذف حالة المعاملة بنجاح.
+trans_status,حالة المعاملات:
+trans_status_yes_all_message,هل أنت متأكد من حذف حالة المعاملة هذه؟
+shp_area_price,السعر
+err_shp_area_name,الرجاء اسم منطقة الشحن
+shp_area_info,معلومات منطقة الشحن
+shp_area_add,إضافة منطقة شحن
+err_shp_area_exist,منطقة الشحن موجودة بالفعل
+success_shp_area_edit,تم تحرير منطقة الشحن.
+shp_area_edit,تعديل منطقة الشحن
+success_shp_area_add,تمت إضافة منطقة الشحن بنجاح.
+success_shp_area_delete,تم حذف منطقة الشحن.
+shp_area_name,اسم المنطقة
+shp_area_search,البحث عن منطقة الشحن
+err_shp_area_len,يجب أن يكون طول منطقة الشحن أكبر من 4
+delete_shp_area_label,هل تريد حذف منطقة الشحن؟
+shp_area_delete_confirm_message,هل أنت متأكد من حذف منطقة الشحن هذه؟
+app_config_info,معلومات إعداد التطبيق
+success_app_config_edit,تم تحديث إعداد التطبيق بنجاح.
+app_configs_module,إعداد التطبيق
+module_group_lang,مجموعة الوحدات
+group_name,اسم مجموعة الوحدة النمطية
+group_icon,رمز مجموعة الوحدة النمطية
+group_lang_key,مفتاح اللغة
+group_info,معلومات مجموعة الوحدة النمطية
+group_search,مجموعة وحدة البحث
+group_add,إضافة مجموعة الوحدة النمطية
+success_group_edit,تم تعديل مجموعة الوحدة بنجاح
+success_group_add,تمت إضافة مجموعة الوحدة النمطية بنجاح
+group_edit,تحرير مجموعة الوحدة النمطية
+success_group_delete,تم حذف مجموعة الوحدة النمطية بنجاح
+err_group_name,يرجى تقديم مجموعة الوحدة النمطية
+err_group_len,يجب أن يكون طول اسم مجموعة الوحدة النمطية أكبر من 4
+err_group_exist,اسم مجموعة الوحدة النمطية موجود بالفعل
+module_lang,وحدة
+module_desc,وصف
+module_ordering,الطلب
+module_add,أضف الوحدة
+module_info,معلومات الوحدة
+module_name,اسم وحدة
+is_show_on_menu,هل تظهر في القائمة؟
+module_lang_key,مفتاح لغة الوحدة
+module_select_group,حدد مجموعة الوحدة النمطية
+delete_module_label,حذف الوحدة؟
+module_delete_confirm_message,هل أنت متأكد من حذف هذه الوحدة؟
+delete_group_label,حذف مجموعة الوحدة النمطية؟
+group_delete_confirm_message,هل أنت متأكد من حذف مجموعة الوحدة هذه؟
+err_module_name,يرجى تقديم اسم الوحدة
+err_module_len,يجب أن يكون طول اسم الوحدة أكبر من 4
+err_module_exist,اسم الوحدة موجود بالفعل
+module_search,اسم وحدة البحث
+success_module_edit,تم تحديث الوحدة بنجاح.
+success_module_add,تمت إضافة الوحدة بنجاح.
+module_edit,تحرير الوحدة
+success_module_delete,تم حذف الوحدة بنجاح.
+prd_ordering,الطلب
+prd_ingredient,المكونات
+prd_nutrient,العناصر الغذائية
+delete_system_user_label,حذف مستخدم النظام؟
+system_user_delete_confirm_message,هل أنت متأكد من حذف مستخدم النظام هذا؟
+color_code,لون حالة المعاملة
+deli_status_ordering,الطلب
+final_stage,المرحلة الأخيرة
+final_stage_delete,المرحلة النهائية غير قادرة على الحذف.
+start_stage_delete,مرحلة البدء غير قادرة على الحذف.
+fcm_api_key_deli_boy_label,تسليم الصبي fcm مفتاح واجهة برمجة التطبيقات
+policy_info,معلومات سياسة الخصوصية
+content_label,المحتوى
+privacy_policy_module,سياسة الخصوصية
+success_policy_edit,تم تحديث سياسة الخصوصية بنجاح
+success_policy_add,تمت إضافة سياسة الخصوصية بنجاح
+not_yet_activate,حسابك لم يتم تفعيله بعد.
+user_status,حالة المستخدم
+order_submit,الطلب المقدم
+deliveried,تم التوصيل
+delete_deliboy_label,حذف صبي التسليم؟
+deliboy_delete_confirm_message,هل أنت متأكد من حذف هذه تسليم بوي؟
+success_deliboy_delete,لقد تم حذف تسليم الصبي بنجاح
+price_level,مستوى السعر
+highlighted_info,معلومات المبرز
+restaurant_version,Flutter Restaurant الإصدار
+deliboy_version,تسليم النسخة الصبي
+err_user_phone_exist,هاتف المستخدم موجود بالفعل.
+razor_enabled_label,تمكين الشفرة؟
+razor_label,[الخيار 6]: الدفع مع الشفرة
+razor_key_label,الحلاقة مفتاح
+banktransfer_label,[الخيار 3]: الدفع باستخدام التحويل المصرفي
+err_user_phone_exist,هاتف المستخدم موجود بالفعل.
+about_me,عني
+trans_prd_checkout,"عذرًا ، أحد المنتجات التي اخترتها غير متوفر في نظامنا".
+img_configuration,تكوين الصورة
+land_width_label,عرض أفقي
+potrait_height_label,ارتفاع الصورة
+square_label,ارتفاع مربع
+user_banned,عذرا، تم حظر الحساب الخاص بك.
+err_user_not_existed,لا موجودة حسابك في النظام.
+err_lat_lng,يجب ألا يكون خط العرض وخط الطول 0.0.
+record_not_found,000 ## عذرا ، لم يتم العثور على السجل.
+no_record_pagination,10002 ## آسف ، لا يوجد المزيد من السجلات في النظام.
+email_verification_enabled, رسالة التحقق ممكن؟
+minimum_order_amount, الحد الأدنى للطلب
+approve_message_1,تهنئة! تسليم وافق بوي (
+approve_message_2,)
+reject_message_1,آسف! تسليم رفضت بوي (
+reject_message_2,)
+banusers_module,قائمة المستخدمين الحظر
+btn_view,رأي
+btn_back,عودة
+user_auto_approved, "تم إنشاء حساب المستخدم الجديد. مرحبا بكم في مطعم الرفرفة."
+reservation_lang_module,التحفظات
+restaurant_branches_module,فروع المطعم
+resv_info,معلومات الاحتياطي
+resv_date_label,تاريخ الحجز (اليوم / الشهر / السنة)
+resv_time_label,وقت الحجز (HH: MM) تنسيق 24 ساعة
+reserved_by,محفوظة بواسطة
+resv_note,مذكرة إضافية
+resv_status,حالة الحجز
+trans_delivery_pickup_date,تاريخ الاستلام: 
+trans_delivery_pickup_time,وقت التسليم:
+pickup_message,رسالة لاقط
+pickup_label,[الخيار 6]: الدفع مع الاستلام
+pickup_enabled,هل تم تمكين الاستلام؟
+cus_pick_up_order,سوف يستلم العميل هذا الطلب.
+success_logout,كان المستخدم بنجاح الخروج.
+paystack_setting,إعداد Paystack
+paystack_label,[الخيار 6]: الدفع مع Paystack
+paystack_key_label,Paystack مفتاح
+paystack_enabled_label,وPaystack ممكن؟
+btn_duplicate,مكرر
+success_prd_duplicate_add,تمت إضافة عنصر مكرر بنجاح ،
+paystack_setting,إعداد Paystack
+paystack_label,[الخيار 7]: الدفع مع Paystack
+paystack_key_label,Paystack مفتاح
+paystack_enabled_label,وPaystack ممكن؟
+btn_duplicate,مكرر
+success_prd_duplicate_add,تمت إضافة عنصر مكرر بنجاح ،
+err_lat,يرجى تقديم خط العرض
+err_lng,يرجى تقديم خط الطول
+err_lat_lng,لا يجب أن يكون خط العرض والطول 0.0
+lat_invlaid,خط العرض يجب أن تكون بين -90 و 90 درجة ضمنا.
+lng_invlaid,يجب أن يكون خط الطول بين -180 و 180 درجة شامل.
+maximum_order,أقصى ترتيب
+pls_maximum_order,إرضاء الحد الأقصى ترتيب
+deeplink_section,قسم الربط العميق
+dyn_link_key_label,مفتاح الارتباط الديناميكي
+dyn_link_url_label,رابط ديناميكي URL
+dyn_link_package_name_label,اسم حزمة الارتباط الديناميكي
+dyn_link_domain_label,مجال الربط الديناميكي
+dyn_link_deep_url_label,رابط عميق للرابط
+prd_dynamic_link_label,رابط ديناميكي للمنتج
+btn_duplicate,مكرر
+success_prd_duplicate_add,تمت إضافة عنصر مكرر بنجاح ،
+dyn_link_package_name_ios, دينامية ربط IOS اسم الحزمة
+dyn_link_ios_appstore_id,ارتباط ديناميكي IOS أبستور رقم
+prd_image,صورة المنتج

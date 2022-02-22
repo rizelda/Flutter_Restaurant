@@ -1,0 +1,1033 @@
+key,value
+site_name,Flutter Restaurant
+setting_label,Setting
+lbl_search_shop,Search Shop
+status_label,Transactions Status
+trans_detail,Transaction Detail
+shops_unpublish_list_label,Unpublished Shop List
+btn_create_new_shop,Create New Shop
+btn_shop_list,Unpublish Shop List
+btn_push_notification,Push Notification
+btn_system_user,System User
+btn_export_database,Export Database
+btn_about_app,About App
+address_label,Address
+lbl_about_shop,About Shop
+lbl_categories,Categories
+user_email,Email
+user_password,Password
+sign_in,Signin
+total_users_count_label,Total Users
+total_cat_count_label,Total Categories
+total_wallpaper_count_label,Total Wallpapers
+total_contact_label,Total Contact Messages
+btn_search,Search
+back_shop_list,Back Shop List
+err_image_missing,No file is uploaded
+about_info,About Information
+allowed_modules,Allowed Module
+shop_name,Shop Name
+product_title,Title
+product_desc,Description
+add_more_spec,Add More Specification
+prd_specification,Food Specification
+product_name_count,Food Name Count
+select_multiple_images,Please select multiple Food images.
+noti_add,Add Notis
+noti_search,Search Noti
+error_login,Your login credentials are wrong. Please try again.
+profile_img,Profile Image
+cat_add,Add Categories
+wrn_no_data,There is no data yet
+cat_name,Category Name
+cat_img,Category Photo
+cat_info,Category Information
+cat_ordering,Ordering
+cat_edit,Edit Category
+success_cat_add,Category has been successfully added
+success_cat_edit,Category has been successfully updated
+success_upload,Image has been successfully updated
+delete_cat_label,Delete Category?
+cat_yes_all_message,"When delete this category, it will delete all related sub categories and products also. So, do you still want to delete it?"
+success_cat_delete,Category has been successfully deleted
+cat_search,Search Category
+cat_icon,Category Icon
+btn_replace_icon,Replace Icon
+upload_icon,Upload Icon
+about_upload_icon,Upload Icon
+fav_upload_icon,Fav Icon
+sidebar_upload_icon,Sidebar Logo
+btn_upload,Upload
+err_cat_name,Please provide category name
+err_cat_len,The length of Category Name must be greater than 4
+err_cat_exist,Category Name is already existed in the system
+subcat_info,Sub Category Information
+subcat_name,Sub Category Name
+subcat_ordering,Sub Category Order
+subcat_img,Sub Category Photo
+subcat_icon,Sub Category Icon
+subcat_search,Search Sub Category
+subcat_add,Add Sub Category
+subcat_edit,Edit Sub Category
+success_subcat_edit,Sub Category has been successfully updated
+success_subcat_add,Sub Category has been successfully added
+success_subcat_delete,Sub Category has been successfully deleted
+err_subcat_name,Please provide sub category name
+err_subcat_len,The length of Sub Category Name must be greater than 4
+err_subcat_exist,Sub Category Name is already existed in the system
+delete_subcat_label,Delete Sub Category?
+subcat_delete_confirm_message,Are you sure to delete this Sub Category?
+subcat_yes_all_message,"When delete this sub category, it will delete all related foods also. So, do you still want to delete it?"
+subcat_no_only_message,<b>Only Sub Category</b> - Only Sub Category will delete from system.
+subcat_yes_all_label,Yes All
+subcat_no_only_label,Only Sub Category
+select_subcat,Select Sub Category
+select_cat,Select Category
+subcat_panel_title,Sub Category List
+Prd_search_cat,Select Category Name
+btn_reset,Reset
+btn_yes,Yes
+upload_photo,Upload photo
+upload_button,Upload
+replace_photo_button,Replace Cover Photo
+photo_desc_label,Photo Description
+del_cover_photo,Delete Cover Photo
+del_cover_photo_confirm,Are you sure you want to delete the photo?
+del_icon_label,Delete Icon
+del_icon_confirm,Are you sure you want to delete the icon?
+status,Status(Is Publish?)
+dis_name,Discount Name
+dis_add,Add Discounts
+dis_percent,Discount Percent(%)
+choose_prd_label,Choose Foods
+dis_info,Discount Informations
+dis_photo,Discount Photo
+prd_name,Food Name
+prd_code,Code
+food_price,Price($)
+dis_add,Add Discounts
+success_dis_add,Discounts has been successfully added
+success_dis_edit,Discounts has been successfully updated
+delete_dis_label,Delete Discounts?
+dis_delete_confirm_message,Are you sure to delete this Discounts?
+dis_edit,Edit Discounts
+err_dis_name,Please provide Discount name
+err_dis_percent,Please provide Discount Percent
+err_dis_len,The length of Discount Name must be greater than 4
+err_dis_exist,Discount Name is already existed in the system
+success_dis_delete,Discounts has been successfully deleted
+discount_photo,Discount Photo
+dis_search,Search Discount
+feed_add,Add New Feeds
+feed_info,New Feeds Informations
+feed_name,Feed Name
+feed_desc,Feed Description
+feed_edit,Edit Feeds
+success_feed_add,New Feeds has been successfully added
+success_feed_edit,New Feeds has been successfully updated
+err_dup_name,Name is already existed in the system
+err_feed_exist,Feed Name is already existed in the system
+delete_feed_label,Delete New Feeds?
+feed_delete_confirm_message,Are you sure to delete this New Feeds?
+success_feed_delete,New Feeds has been successfully deleted
+f_item_cat_required,Please Select Category Name
+err_feed_len,The length of Feed Name must be greater than 4
+err_feed_name,Please provide Feed name
+feed_search,Feed Search
+feed_gallery,Feed Gallery
+list_product_nav,Food
+prd_add,Add Food
+att_add,Add New Customized
+add_att_detail,Add New Customized Detail
+list_attribute_header,Customized Header List
+wrn_no_data,There is no data yet
+product_name,Food Name
+att_name,Customized Name
+Prd_search_subcat,Select Sub Category Name
+Prd_search_dis,Select Discount Type
+product_gallery,Food Gallery
+prd_info,Food Information
+rec_prd_info,Recently Added Foods
+att_info,Customized Information
+prd_desc,Food Description
+prd_high_info,Food Highlight Information
+prd_edit,Edit Food
+prd_code,Food Code
+success_prd_add,Food has been successfully added
+success_prd_edit,Food has been successfully updated
+success_upload,Image has been successfully updated
+delete_prd_label,Delete Food?
+prd_yes_all_message,"When delete this food, it will delete all related sub categories and category also. So, do you still want to delete it?"
+success_prd_delete,Food has been successfully deleted
+prd_search,Search Food
+btn_save_prd_att,Save & Go To Food Customized
+btn_att_list,Customized List
+btn_save_gallery,Save & Go To Gallery
+unit_price,Unit Price
+search_tag,Search Tag/Keyword
+f_item_subcat_required,Please Select Sub Category Name
+f_item_discount_required,Please Select Category Name
+err_Prd_name,Please provide food name
+err_Prd_len,The length of Food Name must be greater than 4
+err_Prd_exist,Food Name is already existed in the system
+is_discount,Is Discount?
+is_featured,Is Featured?
+is_available,Is Available?
+order_by,Order By
+select_order,Select Order
+from_price,From Price
+to_price,To Price
+shipping_cost,Shipping Cost
+minimum_order,Minimum Order
+original_price,Original Price
+err_access,"Sorry, you have no access to take this action"
+err_model,Database error occured
+err_sys,System error occured
+btn_edit,Edit
+btn_update,Update
+btn_delete,Delete
+btn_publish,Publish
+no,No
+btn_save,Save
+btn_cancel,Cancel
+btn_replace_photo,Replace Photo
+Remove,Remove
+success_img_delete,Image has been successfully deleted
+trans_date_label,Date
+success_user_add,System User has been successfully added
+success_user_edit,System User has been successfully updated
+need_to_verify,Your email need to verify with verification code. Please take a look your registered email.
+count_detail,Counts of Detail
+add_att_detail,Add Customized Detail
+detail_label,Detail
+att_edit,Edit Customized
+success_att_add,Customized has been successfully added
+success_att_edit,Customized has been successfully updated
+delete_att_label,Delete Customized?
+att_yes_all_message,"When delete this customized header , it will delete all related customized details also. So, do you still want to delete it?"
+success_att_delete,Customized has been successfully deleted
+att_delete_confirm_message,Do you want to delete all the items under that food together?
+att_search,Search Customized
+att_detail_search,Search Customized Detail
+att_price,Customized Price
+list_attribute_detail,Customized Detail List
+selected_product_name,Selected Food Name
+selected_attribute_header,Selected Customized Header Name
+att_detail_name,Customized Detail Name
+attribute_detail_extra_price,"(If your customized charge additional price, please provide additional price only. It will add to the food's price as automatically.It not override the item price. Just add as additional price.  Eg; price_total = product_price + attribute_additional_price)"
+success_attdetail_edit,Customized Detail has been successfully updated
+success_attdetail_add,Customized Detail has been successfully added
+attdetail_edit,Update Customized Detail Information
+success_attdetail_delete,Customized Detail has been successfully deleted
+att_no_only_message,Only Customized - Only Customized Detail will delete from system.
+delete_attdetail_label,Delete Customized Detail?
+err_att_name,Please provide Customized name
+err_att_len,The length of Customized Name must be greater than 4
+err_att_exist,Customized Name is already existed in the system
+att_detail_info,Customized Detail Information
+err_detail_name,Please provide Customized Detail name
+err_detail_len,The length of Customized Detail Name must be greater than 4
+err_detail_exist,Customized Detail Name is already existed in the system
+collect_search,Search
+collect_photo,Collection Photo
+collect_name,Collection Name
+collect_status,Collection Status
+collect_info,Collection Information
+collect_ordering,Collection Order
+collect_img,Collection Photo
+collect_search,Search Collection
+collect_add,Add Collection
+collect_edit,Edit Collection
+success_collect_edit,Collection has been successfully updated
+success_collect_add,Collection has been successfully added
+success_collect_delete,Collection has been successfully deleted
+err_collect_name,Please provide Collection name
+err_collect_len,The length of Collection Name must be greater than 4
+err_collect_exist,Collection Name is already existed in the system
+delete_collect_label,Delete Collection?
+collect_delete_confirm_message,Are you sure want to delete this Collection?
+collect_yes_all_message,Yes All - Collection and Items will delete from system.
+collect_no_only_message,Only Collection - Only Collection will delete from system.
+collect_yes_all_label,Yes All
+collect_no_only_label,Only Collection
+please_select_product,Please Select Food
+api_info,Api Setting
+api_order_by,Order By
+api_count,Api Count
+success_api_edit,Api Setting has been successfully updated
+comm_user,Users
+comm_desc,Comment Description
+comm_date,Date
+write_reply,Write a comment reply
+btn_reply,Reply
+reply_cmt,Comment Reply
+comm_search,Search
+comment_header,Comments
+date,Date
+reply,Reply
+like_product_name,Food Name
+like_user_name,User Name
+fav_product_name,Food Name
+fav_user_name,User Name
+trans_total_amount,Total Amount
+trans_discount_amount,Discount Amount
+trans_balance_amount,Balance Amount
+trans_billing_address,Billing Address
+trans_delivery_address,Delivery Address
+btn_update,Update
+trans_search,Search Transactions
+btn_update,Update
+Prd_qty,Qty
+Prd_dis,Discount(%)
+Prd_amt,Amount
+Prd_dis_price,Discount Price
+trans_status,Transactions Status:
+success_trans_edit,Transactions Status has been successfully updated
+Prd_name,Food Name
+Prd_price,Food Price
+popular_cat_name,Popular Category Name
+popular_cat_img,Popular Category Photo
+view,View
+popular_cat_search,Search Popular Category
+popular_cat_view,Most Popular Category
+popular_cat_info,Popular Category Information
+popular_cat_icon,Popular Category Icon
+popular_prd_name,Popular Food Name
+popular_prd_code,Popular Food Code
+popular_prd_price,Popular Food Price
+popular_prd_search,Search Popular Food
+popular_prd_view,Most Popular Food
+popular_prd_info,Popular Food Information
+popular_subcat_name,Popular Sub Category Name
+popular_prd_desc,Popular Food Description
+popular_prd_keyword,Popular Food Keywords
+popular_prd_highlight,Popular Food Highlight
+purchased_cat_name,Purchased Category Name
+purchased_cat_img,Purchased Category Photo
+purchased_cat_view,Most Purchased Category
+purchased_cat_info,Purchased Category Information
+purchased_cat_icon,Purchased Category Icon
+purchased_cat_search,Search Purchased Category
+purchased_prd_name,Purchased Food Name
+purchased_prd_code,Purchased Food Code
+purchased_prd_price,Purchased Food Price
+purchased_prd_view,Most Purchased Food
+purchased_prd_search,Search Purchased Food
+purchased_subcat_name,Purchased Sub Category Name
+purchased_prd_desc,Purchased Food Description
+purchased_prd_keyword,Purchased Food Keywords
+purchased_prd_info,Purchased Food Information
+purchased_prd_highlight,Purchased Food Highlight
+total_revenue,Monthly Transactions
+performance_label,Statistics
+comment_label,Comment
+prd_label,Foods Count
+cat_label,Categories Count
+subcat_label,Subcategory Count
+dis_label,Discount
+collect_label,Collection
+view_all_label,View All
+transaction_table,Transaction Table
+name_label,Name
+description_label,Description
+phone_label,Phone 1(Default)
+contact_email_label,Contact Email
+shop_cover_photo_label,Shop Cover Photo Upload
+shop_image_recommended_size,(Recommended Size:600 × 400)
+find_location_label,Type & Find location from Google API
+shop_lat_label,Latitude
+shop_lng_label,Longitude
+success_shop_add,Shop has been successfully added
+success_shop_edit,Shop has been successfully updated
+delete_shop_label,Delete Shop?
+shop_info,Shop Information
+delete_shop_confirm_message,Are you sure you want to delete the shop because it will delete from?
+phone_label2,Phone 2
+phone_label3,Phone 3
+address_label1,Address 1
+address_label2,Address 2
+address_label3,Address 3
+shop_icon_photo_label,Shop Icon Photo Upload
+shop_image_recommended_size_icon,(Recommended Size:256 × 256)
+about_mess_label,Messenger
+about_chart_section,Chat Information
+stripe_label,[Option 1] : Payment With Stripe
+stripe_publishable_key,Publishable Key
+stripe_secret_key,Secret Key
+stripe_enable_label,Is Enabled Stripe Payment?
+stripe_enable_label,Is Enabled Stripe Payment?
+paypal_label,[Option 2] : Payment With Paypal Enabled
+paypal_env_label,Paypal Environment
+paypal_merchant_label,Paypal Merchant ID
+paypal_pub_label,Paypal Public Key
+paypal_pri_label,Paypal Private Key
+paypal_enabled_label,Is Paypal Enabled?
+bank_transfer_label,[Option 3] : Payment With Bank Transfer
+bank_account_label,Bank Account
+bank_name_label,Bank Name
+bank_code_label,Bank Code
+branch_code_label,Branch Code
+swift_code_label,Swift Code
+bank_enable_label,Is Enabled Bank Transfer?
+cod_label,[Option 4] : Payment With Cash On Delivery
+cod_email_label,COD Confirmation Email
+cod_enable_label,Is Enabled Cash On Delivery?
+currency_symbol_label,Currency Symbol (eg; $)
+currency_form_label,Currency Short Form (eg; USD)
+sender_email_label,Sender Email Account(For SMTP)
+btn_add_new,Add New Users
+user_name,User Name
+user_edit,Edit User
+user_info,User Information
+user_add,Add Users
+role_label,User Role
+conf_password,Confirm Password
+select_shop_label,"If user is 'Shop Admin', please select 'Shop' to assign"
+contact_name,Contact Name
+contact_email,Contact Email
+success_contacts_delete,Contact has been successfully deleted
+delete_contact_label,Delete Contacts?
+contact_delete_confirm_message,Are you sure to delete this Contacts?
+contact_info_label,Contact Detail Information
+contact_phone,Contact Person Phone
+about_contact_label,About Contact Message
+lbl_view,View
+back_button,Back
+contact_receive_message,You have received new contact us message.
+rating_product_name,Food Name
+rating_user_name,User Name
+rating_value,Rating Value
+rating_title,Title
+pending_count,Pending Order
+delivery_count,Delivery Order
+completed_count,Completed Order
+order_count,Total Order
+shipping_method_label,Select Default Shipping Method
+shipping_method,Default Shipping Method
+shop_tags,Shop Tags
+overall_tax_label,Overall Tax (%)
+shipping_tax_label,Shipping Tax (%)
+whapsapp_no_label,Whatsapp Number
+refund_policy_label,Refund Policy
+privacy_policy_label,Privacy Policy
+privacypolicy,Terms & Conditions
+app_info_lable,About Information
+about_title_label,About Title
+description_label,About Description
+about_email_label,About Email
+about_phone_label,About Phone
+about_website_label,About Website Link
+about_seo_section,SEO Information
+about_seo_title_label,SEO Title
+about_seo_desc_label,SEO Description
+about_seo_keywords_label,SEO Keywords
+about_social_section,Social Information
+about_facebook_label,Facebook
+about_gplus_label,Google+
+about_instagram_label,Instagram
+about_youtube_label,Youtube
+about_pinterest_label,Pinterest
+about_twitter_label,Twitter
+about_color_section,About Website Theme Color
+about_theme,Available Themes
+success_about_edit,About is successfully updated
+about_ads_analyt,Google Analytic & Ads Setting
+about_ads_client,Ads Client
+about_ads_slot,Ads Slot
+about_analyt_track_id,Analytic Track Id
+about_ads_on,Enable Google Adsense
+about_analyt_on,Enable Google Analytic
+about_img,About Cover Photo
+about_nav_icon,Navigation Icon
+about_fav_icon,Fav Icon
+about_backend_icon,For Backend
+total_label,Total :
+device_label,Device
+devices_label,Devices
+registered_label,has been registered for Push Notification
+noti_info,Push Notification
+noti_message_label,Message
+noti_message_tooltips,Please provide the messsage for push notification.
+noti_send_btn,Send Push Notification
+sorry_no_device,"Sorry, there is no registered device for Push Notification."
+select_cat,Select Category
+success_noti_add,Notification has been successfully added
+success_noti_delete,Notification has been successfully deleted
+delete_noti_label,Delete Notification?
+noti_yes_message,Yes- Notification will delete from system.
+push_message,Push Message
+noti_des_label,Description
+noti_img,Notification Photo
+coupon_code_message,Coupon Code must be at least 4. Eg; ACE1
+coupon_amount_message,"Coupon Discount Amount must be like 10, 20, 30.. It is not percentage."
+coupon_add,Add Coupon
+coupon_info,Coupon Information
+coupon_name,Coupon Name
+coupon_code,Coupon Code
+coupon_amount,Coupon Amount
+coupon_edit,Edit Coupon
+coupon_search,Search Coupon
+success_coupon_add,Coupon has been successfully added
+success_coupon_edit,Coupon has been successfully updated
+success_coupon_delete,Coupon has been successfully deleted
+delete_coupon_label,Delete Coupon?
+coupon_delete_confirm_message,Are you sure to delete this Coupon?
+err_coupon_name,Please provide Coupon name
+err_coupon_len,The length of Coupon Name must be greater than 4
+err_coupon_exist,Coupon Name is already existed in the system
+shipping_name,Shipping Name
+shipping_price,Price
+shipping_days,Days
+shipping_add,Add Shipping Method
+shipping_edit,Edit Shipping Method
+shipping_search,Search Shipping Method
+shipping_info,Shipping Method Information
+success_shipping_add,Shipping Method has been successfully added
+success_shipping_edit,Shipping Method has been successfully updated
+success_shipping_delete,Shipping Method has been successfully deleted
+err_shipping_name,Please provide shipping method name
+err_shipping_len,The length of Shipping Method Name must be greater than 4
+err_shipping_exist,Shipping Method Name is already existed in the system
+delete_shipping_label,Delete Shipping Method?
+shipping_delete_confirm_message,Are you sure to delete this Shipping Method?
+tag_name,Tag Name
+tag_img,Tag Photo
+tag_add,Add Tag
+tag_search,Search Tag
+tag_info,Tag Information
+tag_icon,Tag Icon
+err_tag_name,Please provide tag name
+err_tag_len,The length of Tag Name must be greater than 4
+err_tag_exist,Tag Name is already existed in the system
+success_tag_add,Tag has been successfully added
+success_tag_edit,Tag has been successfully updated
+success_tag_delete,Tag has been successfully deleted
+delete_tag_label,Delete Tag?
+tag_delete_confirm_message,Are you sure to delete this Tag?
+btn_version,Version
+ver_info,Version Information
+ver_no_label,Version No
+ver_msg_label,Version Message
+ver_title_label,Version Title
+ver_force_update,Version Force Update?
+ver_need_data,Version Need Clear Data?
+success_version_add,Version has been successfully added
+success_version_edit,Version has been successfully updated
+paypal_transaction_failed,"Sorry, Paypal Transaction is failed."
+stripe_transaction_failed,"Sorry, Stripe Transaction is failed."
+err_user_not_exist,"Sorry, User Login Credentials Wrong"
+no_record,No More Record
+delete_register_user_label,Delete Registered User?
+register_user_delete_confirm_message,Are you sure to delete this Registered User?
+success_registered_user_delete,Registered User has been successfully deleted
+success_user_delete,User has been successfully deleted
+user_ban,User Ban
+user_ban_label,Ban
+user_unban,Unban
+err_user_banned,"Sorry, you cannot login because your account is banned."
+no_record,No more records
+invalid_api_key,API Key is invalid
+apikey_info,Api Key Information
+key_label,Key
+success_apikey_edit,Api Key is successfully updated
+success_apikey_add,Api Key is successfully added
+err_user_email_exist,User Email is already exist
+trans_payment_method,Payment Method :
+trans_memo,Memo :
+trans_item_sub_total,Item Sub Total :
+trans_coupon_discount_amount,Coupon Discount Amount (-) :
+trans_overall_tax,Overall Tax
+trans_shipping_cost,Shipping Cost (Using
+trans_shipping_tax,Shipping Tax
+trans_total_balance_amount,Total Balance Amount :
+order_desc,Order from PS-Store :
+err_email_not_send_to_shop,"Sorry, email not able to send the shop owner."
+err_email_not_send_to_user,"Sorry, email not able to send the customer."
+order_receive_subject,New order has been received
+order_status_subject,Order order status has been changed to
+country_name,Country Name
+country_add,Add Country
+country_search,Search Country
+country_edit,Edit Country
+country_info,Country Information
+success_country_add,Country has been successfully added
+success_country_edit,Country has been successfully updated
+success_country_delete,Country has been successfully deleted
+delete_country_label,Delete Country?
+country_yes_all_message,"When delete this country, it will delete all related cities and zones also. So, do you still want to delete it?"
+err_country_name,Please provide country name
+err_country_len,The length of Country Name must be greater than 4
+err_country_exist,Country Name is already existed in the system
+city_name,City Name
+city_add,Add City
+select_country,Select Country Name
+city_search,Search City
+city_edit,Edit City
+city_info,City Information
+success_city_add,City has been successfully added
+success_city_edit,City has been successfully updated
+success_city_delete,City has been successfully deleted
+delete_city_label,Delete City?
+city_delete_confirm_message,Are you sure to delete this City?
+err_city_name,Please provide city name
+err_city_len,The length of City Name must be greater than 4
+err_city_exist,City Name is already existed in the system
+f_item_country_required,Please Select Country Name
+zone_name,Zone Name
+zone_search,Search Zone
+zone_add,Add Zone
+zone_edit,Edit Zone
+zone_info,Zone Information
+select_city,Select City Name (Multiple Select)
+success_zone_add,Zone has been successfully added
+success_zone_edit,Zone has been successfully updated
+success_zone_delete,Zone has been successfully deleted
+delete_zone_label,Delete Zone?
+zone_delete_confirm_message,Are you sure to delete this Zone?
+err_zone_name,Please provide zone name
+err_zone_len,The length of Zone Name must be greater than 4
+err_zone_exist,Zone Name is already existed in the system
+f_item_city_required,Please Select City Name
+select_zone,Select Zones
+shipping_zone_add,Add Shipping With Zone
+shipping_zone_edit,Edit Shipping With Zone
+shipping_zone_search,Search Shipping With Zone
+shipping_zone_info,Shipping With Zone Information
+success_shipping_zone_add,Shipping With Zone has been successfully added
+success_shipping_zone_edit,Shipping With Zone has been successfully updated
+success_shipping_zone_delete,Shipping With Zone has been successfully deleted
+delete_shipping_zone_label,Delete Shipping With Zone?
+shipping_zone_delete_confirm_message,Are you sure to delete this Shipping With Zone?
+f_item_zone_required,Please Select Zone Name
+shipping_package_name,Shipping Package Name
+need_to_enable_zone_shipping,Please enable zone shipping at Shipping Setting.
+dup_zone_name,Zone Name is already existed
+you_selected,You have selected
+per_order_based,Per Order Based
+cost,Cost
+per_item_based,Per Item Based
+delivery_increment_of_zone,Delivery Increment of Zone
+based_cost,Based Cost
+take_prd_shipping_cost,Take From Food Shipping Cost
+free_shipping,Free Shipping
+zone_from_other_package,Zone is already selected from other package.
+increment_formula,Formula : (Food Shipping Cost) x (Increment value) x (QTY)
+increment_note,Note : Need to set default is 1.
+cat_module,Categories
+contact_module,Contact Us Message
+system_user_module,System Users
+export_database_module,Export Database
+subcat_module,Subcategories
+discount_module,Discounts
+blog_module,Blogs
+product_module,Foods
+collection_module,Collections
+noti_module,Notis
+version_module,Version
+comments_module,Comments
+like_module,Likes
+favourites_module,Favourites
+transaction_module,Transactions
+popular_prd_module,Most Popular Foods
+purchase_prd_module,Most Purchase Foods
+popular_cat_module,Most Popular Categories
+purchase_cat_module,Most Purchase Categories
+rate_prd_module,Most Rated Foods
+coupon_dis_module,Coupon Discounts
+shipping_module,Shipping Method
+app_module,About App
+shop_module,About Shop
+register_user_module,Registered Users
+api_key_module,Api Keys
+countries_module,Countries
+cities_module,Cities
+zone_module,Zone
+shipping_zone_module,Shipping With Zones
+language_module,Languages
+entry_group,Entry
+user_feedback_group,User Feedback
+user_mang_group,Users Management
+reports_group,Reports
+miscellaneous_group,Miscellaneous
+setting_group,Setting
+second_ago,second
+minute_ago,minute
+hour_ago,hour
+day_ago,day
+week_ago,week
+month_ago,month
+year_ago,year
+decade_ago,decade
+just_now_label,Just Now
+ago_label,ago
+btn_active,Active
+lang_string,Language String
+lang_name,Language Name
+lang_add,Add Language
+lang_info,Language Information
+lang_symbol,Symbol
+lang_search,Search Language
+lang_edit,Edit Language
+success_lang_edit,Language has been successfully updated
+success_lang_add,Language has been successfully added
+success_lang_delete,Language has been successfully deleted
+err_lang_name,Please provide language name
+err_lang_len,The length of Language Name must be greater than 4
+err_lang_exist,Language Name is already existed in the system
+delete_lang_label,Delete Language?
+lang_delete_confirm_message,Do you want to delete all the string under that language together?
+lang_yes_all_label,Yes All
+lang_no_only_label,Only Language
+lang_yes_all_message,Yes All - Language and Items will delete from system.
+language_id,Language
+lang_string_key,Key
+lang_string_value,Value
+lang_string_info,Language String Information
+select_language,Selected Language
+btn_import,Import
+csv_symbol_link,Sample csv file here
+lang_str_search,Search Language String
+success_langstr_import,Language String successfully csv file uploaded
+lang_str_add,Add Language String
+lang_str_edit,Edit Language String
+lang_deactive,Deactive
+success_lang_str_edit,Language String has been successfully updated
+success_lang_str_add,Language String has been successfully added
+err_lang_str_name,Please provide language string name
+err_lang_str_len,The length of language string must be greater than 4
+err_lang_str_exist,Language String is already existed in the system
+lang_title,Deleted Language?
+lang_warning,You can't delete active language.
+btn_ok,OK
+list_lang_label,Languages
+list_lang_str_label,Language Strings
+err_lang_symbol,Please provide language symbol
+pls_att_name,Please Customized Detail Name
+remove_label,Remove
+btn_no,No
+pls_city_name,Please City Name
+pls_collect_name,Please Collection Name
+pls_dis_percent,Please Discount Percent
+pls_prd_name,Please Food Name
+pls_highlight_info,Please Highlight Information
+pls_code,Please Enter Code
+pls_unit_price,Please Unit Price
+pls_shipping_cost,Please Shipping Cost
+pls_minimum_order,Please Minimum Order
+pls_prd_measurement,Please Food Measurement
+pls_prd_unit,Please Food Unit
+pls_search_tag,Please Search Tag
+pls_prd_desc,Please Food Description
+pls_shipping_name,Please Shipping Package Name
+per_order_post,Per Order Cost
+pls_sub_cat,Please Sub Category Name
+pls_zone_name,Please Zone Name
+success_reset_email_sent,Reset Email is sent successfully
+err_touch_count,Problem In Touch Count!
+coupon_not_found,Your coupon code is invalid.
+require_user_id,Required User ID
+require_platform,Required Platform
+file_na,Not Available
+token_already_exist,"Sorry, device token already exist."
+err_noti_register,"Sorry, there is the problem for Push Notification registration."
+success_noti_register,Your device successfully registered for Push Notification.
+success_noti_unregister,Your device successfully unregistered for Push Notification.
+err_noti_unregister,"Sorry, there is the problem for Push Notification unregistration."
+err_in_noti_read,"Sorry, notification is not able to read."
+success_touch_count,Touch Count Successfully Inserted.
+backend_setting_module,Backend Setting
+backend_config_info_lable,Backend Setting Information
+sender_name_label,Sender Name
+receive_email_label,Receive Email
+sender_email_label,Sender Email
+img_section,Image Section
+fcm_api_key_label,fcm api key
+backend_login_img,Backend Login Background Image
+backend_logo,Backend Logo
+backend_fav_icon,Backend Fav Ico
+upload_backend_logo,Upload Backend Logo
+upload_fav_icon,Upload Fav Icon
+upload_login_img,Upload Login Photo
+pwd_reset_label,Password Reset
+pwd_reset_link,Please click the following link to reset your password
+reset_link_label,Reset Password
+best_regards_label,Best Regards
+hi_admin_label,Hi Admin
+name_label,Name
+email_label,Email
+phone_label,Phone
+msg_label,Message
+bank_acc_label,Bank Account :
+bank_name_label,Bank Name :
+bank_code_label,Bank Code :
+branch_code_label,Branch Code
+swift_code_label,Swift Code
+pay_met_cod,Payment Method : Cash On Delivery
+pay_met_paypal,Payment Method : Paypal
+pay_met_stripe,Payment Method : Stripe
+pay_met_bank,Payment Method : Bank Transfer <br>
+price_label,Price :
+unit_label,Unit
+shipping_cost_label,Shipping Cost
+qty_label,QTY
+hi_label,Hi
+order_receive_info,New Order is received with following information.
+trans_code,Trans. Code
+trans_status_label,Trans. Status
+billing_cus_name,Billing Customer Name
+billing_add1,Billing Address 1
+billing_add2,Billing Address 2
+billing_phone,Billing Phone
+billing_email,Billing Email
+billing_shipping_name,Billing Shipping Name
+shipping_add1,Shipping Address 1
+shipping_add2,Shipping Address 2
+shipping_phone,Shipping Phone
+shipping_email,Shipping Email
+memo_label,Memo
+zone_shipping,Zone Shipping
+prd_detail_info,Food details information at below
+sub_total,Sub Total
+coupon_dis_amount,Coupon Discount Amount(-)
+overall_tax,Overall Tax(+)
+shipping_cost,Shipping Cost(+)
+shipping_tax,Shipping Tax(+)
+total_bal_amt,Total Balance Amount
+no_country_available,"Sorry, shipping countries are not available."
+user_register_success_but_email_not_send,User register success but email not send.
+new_user_register,New User Account Registration
+verify_code_sent,Verification Code has been sent
+write_reply_label,Write a reply...
+success_backend_edit,Backend Setting has been successfully updated
+topics_label,Topics
+smtp_section,SMTP Configuration
+smtp_host_label,SMTP Host
+smtp_host_placeholder,eg: ssl://smtp.hostmail.com
+smtp_port_label,SMTP Port Number
+smtp_enable,SMTP Enable?
+smtp_user_label,SMTP User
+smtp_pass_label,SMTP Password
+lang_active,Active
+dashboard_label,Dashboard
+cannot_deactive,"Sorry, it is not able to deactivate."
+err_symbol_exist,Language symbol is already existed in the system.
+new_user_acc,Your new User Account has been created. Welcome to Flutter Restaurant. Please verified with the code at below to actived your account.
+verify_code_label,Verified Code
+restaurant_branch_module,Restaurant Branches
+shop_rates_module,Most Rated Restaurant
+reservation_module,Reservations
+trans_status_module,Transaction Status
+deli_status_module,Delivery Status
+payment_status_module,Payment Status
+deliboys_module,DeliveryBoy Management
+add_on_module,Add On
+shipping_areas_module,Shipping Area
+app_configs_module,App Setting
+food_add_img,Add On Image
+food_add_name,Add On Name
+food_add_description,Description
+food_add_price,Price
+food_additional_info,Add On Information
+err_food_add_name,Please Provide Add On Name.
+err_food_add_len,The length of Add On Name must be greater than 4
+err_food_add_exist,Add On Name is already exist
+food_additional_add,Add Add On
+additional_search,Search Add On
+additional_edit,Edit Add On
+success_additional_edit,Add On has been successfully updated.
+success_additional_add,Add On has been successfully added.
+success_additional_delete,Add On has been successfully deleted.
+branch_name,Name
+branch_description_label,Description
+branch_address_label,Address
+branch_phone_label,Phone
+branch_info,Restaurant Branch Information
+branch_img,Restaurant Branch Photo
+err_branch_name,Please Restaurant Branch Name
+err_branch_len,The length of Restaurant Branch Name must be greater than 4
+err_branch_exist,Restaurant branch is already exist
+err_branch_description,Please provide restaurant description
+err_branch_address,Please provide restaurant branch address
+err_branch_phone,Please provide restaurant branch phone.
+branch_add,Add Restaurant Branch
+branch_search,Search Restaurant Branch
+success_branch_edit,Restaurant Branch has been successfully updated.
+success_branch_add,Restaurant Branch has been successfully
+success_branch_delete,Restaurant Branch has been deleted.
+deli_status_title,Title
+deli_status_add,Add Delivery Status
+err_deli_status_name,Please provide delivery status title
+err_deli_status_len,The length of Delivery Status Title must be greater than 4
+err_deli_status_exist,Delivery Status is already exist
+deli_status_search,Search Delivery Status
+deli_status_edit,Edit Delivery Status
+success_deli_status_edit,Delivery Status has been successfully edited.
+success_deli_status_add,Delivery Status has been successfully added.
+success_deli_status_delete,Delivery Status has been successfully deleted.
+deli_status_yes_all_message,Are you sure to delete this Delivery Status?
+delete_deli_status_label,Delete Delivery Status?
+pay_status_info,Payment Status Information
+err_pay_status_name,Please provide payment status title
+err_pay_status_len,The length of Payment Status must be greater than 4
+err_pay_status_exist,Payment Status is already existed.
+pay_status_add,Add Payment Status
+pay_status_search,Search Payment Status
+pay_status_edit,Edit Payment Status
+success_pay_status_edit,Payment Status has been successfully edited
+success_pay_status_add,Payment Status has been successfully added
+success_pay_status_delete,Payment Status has been successfully deleted.
+delete_pay_status_label,Delete Payment Status?
+pay_status_yes_all_message,Are you sure to delete this Payment Status?
+trans_status_info,Transaction Status Information
+err_trans_status_name,Please provide transaction status title
+err_trans_status_len,The length of Transaction Status must be greater than 4
+err_trans_status_exist,Transaction Status is already existed
+trans_status_search,Search Transaction Status
+trans_status_add,Add Transaction Status
+delete_trans_status_label,Delete Transaction Status?
+trans_status_edit,Edit Transaction Status
+success_trans_status_edit,Transaction Status has been successfully edited.
+success_trans_status_add,Transaction has been successfully added.
+success_trans_status_delete,Transaction Status has been successfully deleted.
+trans_status,Transactions Status:
+trans_status_yes_all_message,Are you sure to delete this Transaction Status?
+shp_area_price,Price
+err_shp_area_name,Please Shipping Area Name
+shp_area_info,Shipping Area Information
+shp_area_add,Add Shipping Area
+err_shp_area_exist,Shipping area is already existed
+success_shp_area_edit,Shipping Area has been edited.
+shp_area_edit,Edit Shipping Area
+success_shp_area_add,Shipping Area has been successfully added.
+success_shp_area_delete,Shipping Area has been deleted.
+shp_area_name,Area Name
+shp_area_search,Search Shipping area
+err_shp_area_len,The length of Shipping Area must be greater than 4
+delete_shp_area_label,Delete Shipping Area?
+shp_area_delete_confirm_message,Are you sure to delete this Shipping Area?
+app_config_info,App Setting Information
+success_app_config_edit,App Setting has been successfully updated.
+app_configs_module,App Setting
+module_group_lang,Module Group
+group_name,Module Group Name
+group_icon,Module Group Icon
+group_lang_key,Language Key
+group_info,Module Group Information
+group_search,Search Module Group
+group_add,Add Module Group
+success_group_edit,Module Group has been successfully edited
+success_group_add,Module Group has been successfully added
+group_edit,Edit Module Group
+success_group_delete,Module Group has been successfully deleted
+err_group_name,Please provide module group
+err_group_len,The length of Module Group Name must be greater than 4
+err_group_exist,Module Group Name is already existed
+module_lang,Module
+module_desc,Description
+module_ordering,Ordering
+module_add,Add Module
+module_info,Module Information
+module_name,Module Name
+is_show_on_menu,Is Show On Menu?
+module_lang_key,Module Language Key
+module_select_group,Select Module Group
+delete_module_label,Delete Module?
+module_delete_confirm_message,Are you sure to delete this Module?
+delete_group_label,Delete Module Group?
+group_delete_confirm_message,Are you sure to delete this Module Group?
+err_module_name,Please provide module name
+err_module_len,The length of Module Name must be greater than 4
+err_module_exist,Module Name is already existed
+module_search,Search Module Name
+success_module_edit,Module has been successfully updated.
+success_module_add,Module has been successfully added.
+module_edit,Edit Module
+success_module_delete,Module has been successfully deleted.
+prd_ordering,Ordering
+prd_ingredient,Ingredient
+prd_nutrient,Nutrient
+delete_system_user_label,Delete System User?
+system_user_delete_confirm_message,Are you sure to delete this System User?
+select_pay_status,Select Payment Status
+select_deli_boy,Select Delivery Boy
+color_code,Transaction Status Color
+deli_status_ordering,Ordering
+final_stage,Final Stage
+final_stage_delete,Final stage is not able to delete.
+start_stage_delete,Start stage is not able to delete.
+fcm_api_key_deli_boy_label,Delivery Boy fcm api key
+policy_info,Privacy Policy Information
+content_label,Content
+privacy_policy_module,Privacy Policy
+success_policy_edit,Privacy Policy has been successfully updated
+success_policy_add,Privacy Policy has been successfully added
+not_yet_activate,Your account is not yet activate.
+user_status,User Status
+order_submit,Order Submitted
+deliveried,Deliveried
+price_level,Price Level
+highlighted_info,Highlighted Information
+delete_deliboy_label,Delete Delivery boy?
+deliboy_delete_confirm_message,Are you sure to delete this Delivery Boy?
+success_deliboy_delete,Delivery boy has been successfully deleted
+restaurant_version,Flutter Restaurant Version
+deliboy_version,Delivery Boy Version
+err_user_phone_exist,User Phone is already exist.
+banktransfer_label,[Option 3] : Payment With Bank Transfer
+err_user_phone_exist,User Phone is already existed.
+about_me,About Me
+trans_prd_checkout,"Sorry, one of your selected products are not available in our system."
+img_configuration,Image Configuration
+land_width_label,Landscape Width
+potrait_height_label,Potrait Height
+square_label,Square Height
+user_banned,"Sorry, Your account is banned."
+err_user_not_existed,Your account is not existed in the system.
+record_not_found,000##Sorry
+no_record_pagination,10002##Sorry
+email_verification_enabled, Email Verification Enabled?
+minimum_order_amount, Minimum Order Amount
+banusers_module,Ban Users List
+btn_view,View
+btn_back,Back
+user_auto_approved, "Your new User Account has been created. Welcome to Flutter Restaurant."
+reservation_lang_module,Reservations
+restaurant_branches_module,Restaurant 
+success_res_edit,Reservation has been successfully updated
+success_res_add,Reservation has been successfully added
+resv_info,Reserve Information
+resv_date_label,Reserve Date (DD/MM/YYYY)
+resv_time_label,Reserve Time (HH:MM) 24 Hours Format
+reserved_by,Reserved By
+resv_note,Additional Note
+resv_status,Reservation Status
+trans_delivery_pickup_date,Delivery Pickup Date : 
+trans_delivery_pickup_time,Delivery Pickup Time : 
+pickup_message,Pickup Message
+pickup_label,[Option 6] : Payment With Pick Up
+pickup_enabled,Is Enabled Pick Up?
+cus_pick_up_order,Customer will pickup for this order.
+success_logout,User has been successfully logout.
+paystack_setting,Paystack Setting,,
+paystack_label,[Option 7]: Payment with Paystack,,
+paystack_key_label,Paystack Key,,
+paystack_enabled_label,Is Paystack Enabled?,,
+btn_duplicate,Duplicate
+success_prd_duplicate_add,Duplicate Item has been successfully added,
+err_lat,Provide Latitude,,
+err_lng,Provide Longitude,,
+err_lat_lng,Your Latitude and Longitude must not be 0.0,,
+lat_invlaid,Latitude must be between -90 and 90 degrees inclusive.,,
+lng_invlaid,Longitude must be between -180 and 180 degrees inclusive.,,
+maximum_order, Maximum Order
+pls_maximum_order, Please Maximum Order
+deeplink_section,Deep Linking Section,,
+dyn_link_key_label,Dynamic link key,,
+dyn_link_url_label,Dynamic linking url,,
+dyn_link_package_name_label,Dynamic linking package name,,
+dyn_link_domain_label,Dynamic linking domain,,
+dyn_link_deep_url_label,Deep linking url,,
+prd_dynamic_link_label,Product Dynamic Link,,
+prd_image, Product Image
+dyn_link_package_name_ios, Dynamic linking IOS package name
+dyn_link_ios_appstore_id,Dynamic Linking IOS AppStore Id
